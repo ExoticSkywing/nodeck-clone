@@ -82,3 +82,4 @@ python3 -m http.server 44118 --bind 0.0.0.0
 - Automated evidence: `RECON/mobile-swipe-progress/report.json`; desktop/source regressions remain 0-pixel in deterministic captures.
 - Follow-up calibration: commit distance is two times the original target, capped at `264px` and derived down to `32%` of the current visible viewport height for short browser chrome; `LET'S GO!` hold `420ms ...[truncated]
 - Physical iPhone Safari/WKWebView touch feel, audible output and haptic outcome still require human approval; automation does not approve trusted-device interaction.
+- Safari audio recovery: the touch adapter now s...[truncated]

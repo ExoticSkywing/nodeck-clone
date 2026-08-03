@@ -51,6 +51,7 @@
   let commitTimer = 0;
   let resetTimer = 0;
   let firstCompletedInteractionHandled = false;
+  let soundEnableRequested = false;
   let soundAutoEnabled = false;
   let hapticSwitch = null;
   let hapticPulseCount = 0;
@@ -104,19 +105,31 @@
   };
 
   const enableSoundAfterFirstCompletedInteraction = (event) => {
-    if (firstCompletedInteractionHandled || !shouldEnhanceTouch() || !event.isTrusted || !soundButton) return;
-    firstCompletedInteractionHandled = true;
+    if (firstCompletedInteractionHandled || soundEnableRequested || !shouldEnhanceTouch() || !event.isTrusted || !soundButton) return;
+    soundEnableRequested = true;
     document.documentElement.dataset.mobileFirstInteractionComplete = "true";
     if (!soundButton.classList.contains("is-muted")) {
+      firstCompletedInteractionHandled = true;
       soundAutoEnabled = true;
       document.documentElement.dataset.mobileSoundAutoEnabled = "already-on";
       return;
     }
-    // Reuse the source sound-toggle handler from the trusted touchend stack.
-    soundButton.click();
+    // The source module owns sound state. Dispatch an explicit request that it
+    // handles synchronously inside this real touchend stack; never synthesize
+    // button.click(), because iOS Safari does not transfer user activation.
+    window.dispatchEvent(new CustomEvent("nodeck:enable-sound"));
+  };
+
+  window.addEventListener("nodeck:sound-enabled", () => {
+    firstCompletedInteractionHandled = true;
+    soundEnableRequested = false;
     soundAutoEnabled = !soundButton.classList.contains("is-muted");
     document.documentElement.dataset.mobileSoundAutoEnabled = String(soundAutoEnabled);
-  };
+  });
+  window.addEventListener("nodeck:sound-enable-failed", () => {
+    soundEnableRequested = false;
+    document.documentElement.dataset.mobileSoundAutoEnabled = "false";
+  });
 
   const paint = (value) => {
     progress = Math.max(0, Math.min(value, 1));
