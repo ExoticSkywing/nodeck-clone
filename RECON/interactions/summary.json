@@ -1,0 +1,83 @@
+{
+  "allStateEqual": true,
+  "allShotEqual": true,
+  "results": [
+    {
+      "label": "menu-open",
+      "stateEqual": true,
+      "shotEqual": true,
+      "state": {
+        "notes": "false",
+        "overlay": "false",
+        "sound": "btn btn-round sound-toggle sound-toggle--small is-muted",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      }
+    },
+    {
+      "label": "menu-closed",
+      "stateEqual": true,
+      "shotEqual": true,
+      "state": {
+        "notes": "false",
+        "overlay": "true",
+        "sound": "btn btn-round sound-toggle sound-toggle--small is-muted",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      }
+    },
+    {
+      "label": "notes-open",
+      "stateEqual": true,
+      "shotEqual": true,
+      "state": {
+        "notes": "true",
+        "overlay": "true",
+        "sound": "btn btn-round sound-toggle sound-toggle--small is-muted",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      }
+    },
+    {
+      "label": "notes-closed",
+      "stateEqual": true,
+      "shotEqual": true,
+      "state": {
+        "notes": "false",
+        "overlay": "true",
+        "sound": "btn btn-round sound-toggle sound-toggle--small is-muted",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      }
+    },
+    {
+      "label": "sound-toggle",
+      "stateEqual": true,
+      "shotEqual": true,
+      "state": {
+        "notes": "false",
+        "overlay": "true",
+        "sound": "btn btn-round sound-toggle sound-toggle--small",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      }
+    }
+  ],
+  "originalIssues": {
+    "errors": [],
+    "console": [],
+    "http": [],
+    "failed": []
+  },
+  "cloneIssues": {
+    "errors": [],
+    "console": [],
+    "http": [],
+    "failed": []
+  }
+}
