@@ -80,5 +80,5 @@ python3 -m http.server 44118 --bind 0.0.0.0
 - Gesture arbitration: vertical intent is axis-locked; horizontal gestures, modal/nav-overlay touches, buttons/links/inputs and known nested swipers are excluded.
 - Recovery: partial swipe rolls back without navigation; reverse swipe maps to the previous slide; visibility/app interruption resets the adapter.
 - Automated evidence: `RECON/mobile-swipe-progress/report.json`; desktop/source regressions remain 0-pixel in deterministic captures.
-- Follow-up calibration: commit distance `132px → 264px`; `LET'S GO!` hold `420ms → 1000ms`; first trusted completed touch auto-enables the source-owned sound system; success haptics use the Vibration API with an iOS native-switch fallback.
+- Follow-up calibration: commit distance is two times the original target, capped at `264px` and derived down to `32%` of the current visible viewport height for short browser chrome; `LET'S GO!` hold `420ms ...[truncated]
 - Physical iPhone Safari/WKWebView touch feel, audible output and haptic outcome still require human approval; automation does not approve trusted-device interaction.

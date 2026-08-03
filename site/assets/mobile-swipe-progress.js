@@ -7,7 +7,17 @@
   "use strict";
 
   const MOBILE_QUERY = "(hover: none) and (pointer: coarse)";
-  const COMMIT_DISTANCE_PX = 264;
+  const touchCapable = () => (
+    navigator.maxTouchPoints > 0 ||
+    "ontouchstart" in window ||
+    window.TouchEvent !== undefined
+  );
+  const shouldEnhanceTouch = () => touchCapable() && window.innerWidth <= 900;
+  const viewportHeight = () => Math.max(
+    1,
+    window.visualViewport?.height || window.innerHeight || document.documentElement.clientHeight || 1
+  );
+  const commitDistance = () => Math.min(264, Math.max(220, viewportHeight() * 0.32));
   const AXIS_LOCK_PX = 8;
   const AXIS_DOMINANCE = 1.2;
   const COMMIT_HOLD_MS = 1000;
@@ -26,6 +36,9 @@
   if (!widget || !ring || !check || !label || !prevButton || !nextButton) return;
 
   const mobileMedia = window.matchMedia(MOBILE_QUERY);
+  document.documentElement.dataset.mobileSwipeAdapter = "loaded";
+  document.documentElement.dataset.mobileSwipeTouchCapable = String(touchCapable());
+  document.documentElement.dataset.mobileSwipeMq = String(mobileMedia.matches);
   const checkLength = check.getTotalLength?.() || 54;
   let touchId = null;
   let startX = 0;
@@ -91,7 +104,7 @@
   };
 
   const enableSoundAfterFirstCompletedInteraction = (event) => {
-    if (firstCompletedInteractionHandled || !mobileMedia.matches || !event.isTrusted || !soundButton) return;
+    if (firstCompletedInteractionHandled || !shouldEnhanceTouch() || !event.isTrusted || !soundButton) return;
     firstCompletedInteractionHandled = true;
     document.documentElement.dataset.mobileFirstInteractionComplete = "true";
     if (!soundButton.classList.contains("is-muted")) {
@@ -179,7 +192,7 @@
   };
 
   const start = (event) => {
-    if (!mobileMedia.matches || touchId !== null || committed || committing) return;
+    if (!shouldEnhanceTouch() || touchId !== null || committed || committing) return;
     if (event.touches.length !== 1 || isModalOpen() || transitionRunning() || isInteractiveTarget(event.target)) return;
     const touch = event.changedTouches[0];
     touchId = touch.identifier;
@@ -192,7 +205,7 @@
   };
 
   const move = (event) => {
-    if (!mobileMedia.matches || touchId === null || committing) return;
+    if (!shouldEnhanceTouch() || touchId === null || committing) return;
     const touch = [...event.changedTouches].find((item) => item.identifier === touchId) ||
       [...event.touches].find((item) => item.identifier === touchId);
     if (!touch) return;
@@ -229,7 +242,7 @@
     label.textContent = direction > 0 ? "NEXT SLIDE" : "PREV SLIDE";
     widget.setAttribute("aria-label", direction > 0 ? "Swipe up to next slide" : "Swipe down to previous slide");
     show();
-    paint(Math.abs(dy) / COMMIT_DISTANCE_PX);
+    paint(Math.abs(dy) / commitDistance());
     if (progress >= 1) commit();
   };
 
@@ -247,6 +260,7 @@
   widget.setAttribute("aria-valuemin", "0");
   widget.setAttribute("aria-valuemax", "100");
   ensureHapticSwitch();
+  if (shouldEnhanceTouch()) document.documentElement.classList.add("mobile-swipe-touch-capable");
   reset({ animate: false });
 
   window.addEventListener("touchstart", start, { passive: true, capture: true });
