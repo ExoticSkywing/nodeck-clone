@@ -1,0 +1,79 @@
+
+/* Mobile swipe-progress parity with the desktop wheel interaction. */
+@media (hover: none) and (pointer: coarse) {
+  .scroll-nav.is-touch-enhanced {
+    display: flex !important;
+    bottom: calc(180px + max(1.25rem, env(safe-area-inset-bottom)));
+    width: min(8.75rem, calc(100vw - 2rem));
+    padding: .7rem .825rem;
+    gap: .4rem;
+    z-index: 90;
+    border-width: 3px;
+    box-shadow: 4px 4px 0 #000;
+    transform: translate(-50%, .5rem) scale(.96);
+    transform-origin: 50% 100%;
+    transition:
+      opacity 180ms ease,
+      visibility 180ms ease,
+      transform 220ms cubic-bezier(.22, 1, .36, 1);
+    contain: layout style paint;
+  }
+
+  .scroll-nav.is-touch-enhanced.is-touch-active {
+    transform: translate(-50%, 0) scale(1);
+  }
+
+  .scroll-nav.is-touch-enhanced .scroll-nav__label {
+    font-size: .75rem;
+    letter-spacing: .035em;
+  }
+
+  .scroll-nav.is-touch-enhanced .scroll-nav__label::before {
+    content: "↑";
+    display: inline-block;
+    margin-right: .35rem;
+    font-size: 1rem;
+    line-height: 0;
+    transform: translateY(.06rem);
+  }
+
+  .scroll-nav.is-touch-enhanced:has(.scroll-nav__label:not(:empty))[aria-label*="previous" i] .scroll-nav__label::before {
+    content: "↓";
+  }
+
+  .scroll-nav.is-touch-enhanced.is-touch-success .scroll-nav__label::before {
+    content: "✓";
+  }
+
+  .scroll-nav.is-touch-enhanced .scroll-nav__ring-wrap,
+  .scroll-nav.is-touch-enhanced .scroll-nav__svg {
+    width: 1.625rem;
+    height: 1.625rem;
+  }
+
+  .scroll-nav.is-touch-enhanced .scroll-nav__svg circle,
+  .scroll-nav.is-touch-enhanced .scroll-nav__svg polyline {
+    stroke-width: 8px;
+  }
+
+  .scroll-nav.is-touch-enhanced .scroll-nav__ring-track {
+    stroke-opacity: .22;
+  }
+
+  .scroll-nav.is-touch-enhanced.is-touch-success .scroll-nav__ring-wrap {
+    display: none;
+  }
+
+  .scroll-nav.is-touch-enhanced .scroll-nav__ring-progress,
+  .scroll-nav.is-touch-enhanced .scroll-nav__check {
+    transition: stroke-dashoffset var(--touch-reset-duration, 100ms) ease-out;
+  }
+
+  .scroll-nav.is-touch-enhanced.is-touch-success {
+    background-color: #def915;
+    box-shadow: 5px 5px 0 #000;
+    padding-top: .9rem;
+    padding-bottom: .9rem;
+    transform: translate(-50%, 0) scale(1.04);
+  }
+}

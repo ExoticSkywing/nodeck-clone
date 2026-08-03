@@ -72,3 +72,12 @@ python3 -m http.server 44118 --bind 0.0.0.0
 - [x] 404 标题页 0 像素差
 - [x] 404 Phaser 进入游戏，Canvas 1280×720、状态一致、无网络/console 错误
 - [ ] 真实 iPhone Safari 的触控手感、用户激活与声音需人工审批
+
+## Mobile swipe-progress enhancement
+- Branch: `feat/mobile-swipe-progress`
+- Mobile vertical swipe now reuses the desktop scroll-progress presentation: live ring progress → `LET'S GO!` success → existing slider navigation.
+- Ownership: the adapter does not mutate slide state directly; it invokes the source-owned Prev/Next buttons only after completion.
+- Gesture arbitration: vertical intent is axis-locked; horizontal gestures, modal/nav-overlay touches, buttons/links/inputs and known nested swipers are excluded.
+- Recovery: partial swipe rolls back without navigation; reverse swipe maps to the previous slide; visibility/app interruption resets the adapter.
+- Automated evidence: `RECON/mobile-swipe-progress/report.json`; desktop/source regressions remain 0-pixel in deterministic captures.
+- Physical iPhone Safari/WKWebView touch feel and haptic timing still require human approval; automation does not approve trusted-device interaction.

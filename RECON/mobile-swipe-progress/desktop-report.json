@@ -1,0 +1,23 @@
+{
+  "issues": {
+    "errors": [],
+    "console": [],
+    "http": [],
+    "failed": []
+  },
+  "before": {
+    "active": "slide slide--cover is-active",
+    "widget": "flex",
+    "enhanced": "scroll-nav is-touch-enhanced"
+  },
+  "partial": {
+    "label": "NEXT SLIDE",
+    "aria": "48",
+    "visibility": "visible"
+  },
+  "after": {
+    "active": "slide slide--problem is-active",
+    "indicator": "Slide 2/10"
+  },
+  "sha": "211771d2990ac1699f4c16b979840b4b1092d094ff5cf8f8b848a8a3442ee97b"
+}

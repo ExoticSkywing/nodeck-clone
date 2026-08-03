@@ -1,0 +1,246 @@
+{
+  "issues": {
+    "errors": [],
+    "console": [],
+    "http": [],
+    "failed": []
+  },
+  "results": [
+    {
+      "label": "initial",
+      "active": "slide slide--cover is-active",
+      "indicator": "Slide 1/10",
+      "widget": {
+        "display": "flex",
+        "visibility": "hidden",
+        "opacity": "0",
+        "cls": "scroll-nav is-touch-enhanced",
+        "label": "NEXT SLIDE",
+        "aria": "0",
+        "ring": "226.195",
+        "check": "53.8531",
+        "rect": {
+          "x": 127.80000305175781,
+          "y": 578.3049926757812,
+          "width": 134.40000915527344,
+          "height": 73.69500732421875,
+          "top": 578.3049926757812,
+          "right": 262.20001220703125,
+          "bottom": 652,
+          "left": 127.80000305175781
+        }
+      }
+    },
+    {
+      "label": "partial-forward",
+      "active": "slide slide--cover is-active",
+      "indicator": "Slide 1/10",
+      "widget": {
+        "display": "flex",
+        "visibility": "visible",
+        "opacity": "0.638364",
+        "cls": "scroll-nav is-touch-enhanced is-touch-active",
+        "label": "NEXT SLIDE",
+        "aria": "49",
+        "ring": "114.811",
+        "check": "53.8531",
+        "rect": {
+          "x": 125.45973205566406,
+          "y": 569.0520629882812,
+          "width": 139.08055114746094,
+          "height": 76.261474609375,
+          "top": 569.0520629882812,
+          "right": 264.540283203125,
+          "bottom": 645.3135375976562,
+          "left": 125.45973205566406
+        }
+      }
+    },
+    {
+      "label": "partial-cancelled",
+      "active": "slide slide--cover is-active",
+      "indicator": "Slide 1/10",
+      "widget": {
+        "display": "flex",
+        "visibility": "hidden",
+        "opacity": "0",
+        "cls": "scroll-nav is-touch-enhanced",
+        "label": "NEXT SLIDE",
+        "aria": "0",
+        "ring": "226.195",
+        "check": "53.8531",
+        "rect": {
+          "x": 127.80000305175781,
+          "y": 578.3049926757812,
+          "width": 134.40000915527344,
+          "height": 73.69500732421875,
+          "top": 578.3049926757812,
+          "right": 262.20001220703125,
+          "bottom": 652,
+          "left": 127.80000305175781
+        }
+      }
+    },
+    {
+      "label": "horizontal-ignored",
+      "active": "slide slide--cover is-active",
+      "indicator": "Slide 1/10",
+      "widget": {
+        "display": "flex",
+        "visibility": "hidden",
+        "opacity": "0",
+        "cls": "scroll-nav is-touch-enhanced",
+        "label": "NEXT SLIDE",
+        "aria": "0",
+        "ring": "226.195",
+        "check": "53.8531",
+        "rect": {
+          "x": 127.80000305175781,
+          "y": 578.3049926757812,
+          "width": 134.40000915527344,
+          "height": 73.69500732421875,
+          "top": 578.3049926757812,
+          "right": 262.20001220703125,
+          "bottom": 652,
+          "left": 127.80000305175781
+        }
+      }
+    },
+    {
+      "label": "forward-success",
+      "active": "slide slide--cover is-active",
+      "indicator": "Slide 1/10",
+      "widget": {
+        "display": "flex",
+        "visibility": "visible",
+        "opacity": "0.763384",
+        "cls": "scroll-nav is-touch-enhanced is-touch-active is-touch-success",
+        "label": "LET'S GO!",
+        "aria": "100",
+        "ring": "0",
+        "check": "0",
+        "rect": {
+          "x": 122.73983764648438,
+          "y": 592.350341796875,
+          "width": 144.52032470703125,
+          "height": 52.4208984375,
+          "top": 592.350341796875,
+          "right": 267.2601623535156,
+          "bottom": 644.771240234375,
+          "left": 122.73983764648438
+        }
+      }
+    },
+    {
+      "label": "forward-complete",
+      "active": "slide slide--problem is-active",
+      "indicator": "Slide 2/10",
+      "widget": {
+        "display": "flex",
+        "visibility": "hidden",
+        "opacity": "0",
+        "cls": "scroll-nav is-touch-enhanced",
+        "label": "NEXT SLIDE",
+        "aria": "0",
+        "ring": "226.195",
+        "check": "53.8531",
+        "rect": {
+          "x": 127.80000305175781,
+          "y": 578.3049926757812,
+          "width": 134.40000915527344,
+          "height": 73.69500732421875,
+          "top": 578.3049926757812,
+          "right": 262.20001220703125,
+          "bottom": 652,
+          "left": 127.80000305175781
+        }
+      }
+    },
+    {
+      "label": "reverse-success",
+      "active": "slide slide--problem is-active",
+      "indicator": "Slide 2/10",
+      "widget": {
+        "display": "flex",
+        "visibility": "visible",
+        "opacity": "0.762752",
+        "cls": "scroll-nav is-touch-enhanced is-touch-active is-touch-success",
+        "label": "LET'S GO!",
+        "aria": "100",
+        "ring": "0",
+        "check": "0",
+        "rect": {
+          "x": 122.74160766601562,
+          "y": 592.3541259765625,
+          "width": 144.51678466796875,
+          "height": 52.41961669921875,
+          "top": 592.3541259765625,
+          "right": 267.2583923339844,
+          "bottom": 644.7737426757812,
+          "left": 122.74160766601562
+        }
+      }
+    },
+    {
+      "label": "reverse-complete",
+      "active": "slide slide--cover is-active",
+      "indicator": "Slide 1/10",
+      "widget": {
+        "display": "flex",
+        "visibility": "hidden",
+        "opacity": "0",
+        "cls": "scroll-nav is-touch-enhanced",
+        "label": "NEXT SLIDE",
+        "aria": "0",
+        "ring": "226.195",
+        "check": "53.8531",
+        "rect": {
+          "x": 127.80000305175781,
+          "y": 578.3049926757812,
+          "width": 134.40000915527344,
+          "height": 73.69500732421875,
+          "top": 578.3049926757812,
+          "right": 262.20001220703125,
+          "bottom": 652,
+          "left": 127.80000305175781
+        }
+      }
+    },
+    {
+      "label": "overlay-blocks-swipe",
+      "active": "slide slide--cover is-active",
+      "indicator": "Slide 1/10",
+      "widget": {
+        "display": "flex",
+        "visibility": "hidden",
+        "opacity": "0",
+        "cls": "scroll-nav is-touch-enhanced",
+        "label": "NEXT SLIDE",
+        "aria": "0",
+        "ring": "226.195",
+        "check": "53.8531",
+        "rect": {
+          "x": 127.80000305175781,
+          "y": 578.3049926757812,
+          "width": 134.40000915527344,
+          "height": 73.69500732421875,
+          "top": 578.3049926757812,
+          "right": 262.20001220703125,
+          "bottom": 652,
+          "left": 127.80000305175781
+        }
+      }
+    }
+  ],
+  "assertions": {
+    "partialHasProgress": true,
+    "partialDoesNotNavigate": true,
+    "horizontalIgnored": true,
+    "forwardShowsSuccess": true,
+    "forwardNavigates": true,
+    "reverseShowsSuccess": true,
+    "reverseNavigatesBack": true,
+    "modalBlocks": true,
+    "clean": true
+  }
+}
