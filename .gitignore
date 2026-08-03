@@ -4,3 +4,4 @@ RECON/mobile-swipe-progress/*.log
 RECON/mobile-swipe-progress/*.cjs
 RECON/reynard-compat/
 RECON/ios-audio/
+RECON/ios-media-bridge/

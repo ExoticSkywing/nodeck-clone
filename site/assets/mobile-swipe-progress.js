@@ -32,6 +32,10 @@
   const prevButton = document.getElementById("nav-prev-slide-btn");
   const nextButton = document.getElementById("nav-next-slide-btn");
   const soundButton = document.getElementById("sound-toggle-btn");
+  soundButton?.addEventListener("click", () => {
+    const willMute = soundButton.classList.contains("is-muted") === false;
+    window.dispatchEvent(new CustomEvent(willMute ? "nodeck:sound-muted" : "nodeck:enable-sound"));
+  });
 
   if (!widget || !ring || !check || !label || !prevButton || !nextButton) return;
 
