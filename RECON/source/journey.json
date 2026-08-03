@@ -1,0 +1,1961 @@
+{
+  "acts": [
+    {
+      "name": "arrow-right",
+      "before": {
+        "txt": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10",
+        "html": 156957,
+        "bg": "rgb(255, 135, 171)",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      },
+      "after": {
+        "url": "https://www.nodeck.online/",
+        "bodyBg": "rgb(255, 135, 171)",
+        "bodyText": "THE PROBLEM\n\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nTHE PROBLEM\n\nSLIDE 2: THE PROBLEM",
+        "active": [
+          "slide slide--problem is-active"
+        ],
+        "visible": [
+          {
+            "tag": "BUTTON",
+            "text": "Go to cover slide",
+            "cls": "site-logo",
+            "rect": {
+              "x": 630,
+              "y": 32,
+              "width": 180,
+              "height": 52,
+              "top": 32,
+              "right": 810,
+              "bottom": 84,
+              "left": 630
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PRESENTER NOTES\nPRESENTER NOTES",
+            "cls": "notes-button",
+            "rect": {
+              "x": 20,
+              "y": 823,
+              "width": 170,
+              "height": 40,
+              "top": 823,
+              "right": 190,
+              "bottom": 863,
+              "left": 20
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PREV",
+            "cls": "btn nav__arrow nav__arrow--prev",
+            "rect": {
+              "x": 561,
+              "y": 801,
+              "width": 102,
+              "height": 54,
+              "top": 801,
+              "right": 663,
+              "bottom": 855,
+              "left": 561
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Display slides menu",
+            "cls": "btn btn-round nav__menu",
+            "rect": {
+              "x": 679,
+              "y": 788,
+              "width": 80,
+              "height": 80,
+              "top": 788,
+              "right": 759,
+              "bottom": 868,
+              "left": 679
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "NEXT",
+            "cls": "btn nav__arrow nav__arrow--next",
+            "rect": {
+              "x": 775,
+              "y": 801,
+              "width": 104,
+              "height": 54,
+              "top": 801,
+              "right": 879,
+              "bottom": 855,
+              "left": 775
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Unmute sound",
+            "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+            "rect": {
+              "x": 1276,
+              "y": 824,
+              "width": 48,
+              "height": 48,
+              "top": 824,
+              "right": 1324,
+              "bottom": 872,
+              "left": 1276
+            },
+            "pe": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "name": "arrow-right-2",
+      "before": {
+        "txt": "THE PROBLEM\n\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nTHE PROBLEM\n\nSLIDE 2: THE PROBLEM",
+        "html": 161375,
+        "bg": "rgb(255, 135, 171)",
+        "active": [
+          "slide slide--problem is-active"
+        ]
+      },
+      "after": {
+        "url": "https://www.nodeck.online/",
+        "bodyBg": "rgb(255, 135, 171)",
+        "bodyText": "THE PROBLEM\n\nEVERY YEAR, BILLIONS ARE SPENT ON DECKS NOBODY READS, FRAMEWORKS NOBODY USES, AND CONSULTANTS NOBODY REMEMBERS.\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nSLIDE 2: THE PROBLEM",
+        "active": [
+          "slide slide--problem is-active"
+        ],
+        "visible": [
+          {
+            "tag": "BUTTON",
+            "text": "Go to cover slide",
+            "cls": "site-logo",
+            "rect": {
+              "x": 630,
+              "y": 32,
+              "width": 180,
+              "height": 52,
+              "top": 32,
+              "right": 810,
+              "bottom": 84,
+              "left": 630
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PRESENTER NOTES\nPRESENTER NOTES",
+            "cls": "notes-button",
+            "rect": {
+              "x": 20,
+              "y": 823,
+              "width": 170,
+              "height": 40,
+              "top": 823,
+              "right": 190,
+              "bottom": 863,
+              "left": 20
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PREV",
+            "cls": "btn nav__arrow nav__arrow--prev",
+            "rect": {
+              "x": 561,
+              "y": 801,
+              "width": 102,
+              "height": 54,
+              "top": 801,
+              "right": 663,
+              "bottom": 855,
+              "left": 561
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Display slides menu",
+            "cls": "btn btn-round nav__menu",
+            "rect": {
+              "x": 679,
+              "y": 788,
+              "width": 80,
+              "height": 80,
+              "top": 788,
+              "right": 759,
+              "bottom": 868,
+              "left": 679
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "NEXT",
+            "cls": "btn nav__arrow nav__arrow--next",
+            "rect": {
+              "x": 775,
+              "y": 801,
+              "width": 104,
+              "height": 54,
+              "top": 801,
+              "right": 879,
+              "bottom": 855,
+              "left": 775
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Unmute sound",
+            "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+            "rect": {
+              "x": 1276,
+              "y": 824,
+              "width": 48,
+              "height": 48,
+              "top": 824,
+              "right": 1324,
+              "bottom": 872,
+              "left": 1276
+            },
+            "pe": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "name": "arrow-left",
+      "before": {
+        "txt": "THE PROBLEM\n\nEVERY YEAR, BILLIONS ARE SPENT ON DECKS NOBODY READS, FRAMEWORKS NOBODY USES, AND CONSULTANTS NOBODY REMEMBERS.\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nSLIDE 2: THE PROBLEM",
+        "html": 161750,
+        "bg": "rgb(255, 135, 171)",
+        "active": [
+          "slide slide--problem is-active"
+        ]
+      },
+      "after": {
+        "url": "https://www.nodeck.online/",
+        "bodyBg": "rgb(255, 135, 171)",
+        "bodyText": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nCOVER SLIDE\n\nSLIDE 1: COVER SLIDE",
+        "active": [
+          "slide slide--cover is-active"
+        ],
+        "visible": [
+          {
+            "tag": "BUTTON",
+            "text": "PRESENTER NOTES\nPRESENTER NOTES",
+            "cls": "notes-button",
+            "rect": {
+              "x": 20,
+              "y": 823,
+              "width": 170,
+              "height": 40,
+              "top": 823,
+              "right": 190,
+              "bottom": 863,
+              "left": 20
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PREV",
+            "cls": "btn nav__arrow nav__arrow--prev",
+            "rect": {
+              "x": 561,
+              "y": 801,
+              "width": 102,
+              "height": 54,
+              "top": 801,
+              "right": 663,
+              "bottom": 855,
+              "left": 561
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Display slides menu",
+            "cls": "btn btn-round nav__menu",
+            "rect": {
+              "x": 679,
+              "y": 788,
+              "width": 80,
+              "height": 80,
+              "top": 788,
+              "right": 759,
+              "bottom": 868,
+              "left": 679
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "NEXT",
+            "cls": "btn nav__arrow nav__arrow--next",
+            "rect": {
+              "x": 775,
+              "y": 801,
+              "width": 104,
+              "height": 54,
+              "top": 801,
+              "right": 879,
+              "bottom": 855,
+              "left": 775
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Unmute sound",
+            "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+            "rect": {
+              "x": 1280,
+              "y": 824,
+              "width": 48,
+              "height": 48,
+              "top": 824,
+              "right": 1328,
+              "bottom": 872,
+              "left": 1280
+            },
+            "pe": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "name": "space",
+      "before": {
+        "txt": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nCOVER SLIDE\n\nSLIDE 1: COVER SLIDE",
+        "html": 164260,
+        "bg": "rgb(255, 135, 171)",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      },
+      "after": {
+        "url": "https://www.nodeck.online/",
+        "bodyBg": "rgb(255, 135, 171)",
+        "bodyText": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nSLIDES\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nSLIDE 1: COVER SLIDE",
+        "active": [
+          "slide slide--cover is-active"
+        ],
+        "visible": [
+          {
+            "tag": "BUTTON",
+            "text": "Close slides menu",
+            "cls": "btn btn-round nav-overlay__close",
+            "rect": {
+              "x": 1195,
+              "y": 323.25,
+              "width": 40,
+              "height": 40,
+              "top": 323.25,
+              "right": 1235,
+              "bottom": 363.25,
+              "left": 1195
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "1",
+            "cls": "nav-overlay__thumb nav-overlay__thumb--active",
+            "rect": {
+              "x": 205,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 445,
+              "bottom": 516.734375,
+              "left": 205
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "2",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 461,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 701,
+              "bottom": 516.734375,
+              "left": 461
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "3",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 717,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 957,
+              "bottom": 516.734375,
+              "left": 717
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "4",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 973,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 1213,
+              "bottom": 516.734375,
+              "left": 973
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "5",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 1229,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 1469,
+              "bottom": 516.734375,
+              "left": 1229
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "6",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 1485,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 1725,
+              "bottom": 516.734375,
+              "left": 1485
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "7",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 1741,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 1981,
+              "bottom": 516.734375,
+              "left": 1741
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "8",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 1997,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 2237,
+              "bottom": 516.734375,
+              "left": 1997
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "9",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 2253,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 2493,
+              "bottom": 516.734375,
+              "left": 2253
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "10",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 2509,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 2749,
+              "bottom": 516.734375,
+              "left": 2509
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Previous slide thumbnail",
+            "cls": "btn btn-round swiper-button-prev swiper-button-disabled",
+            "rect": {
+              "x": 628,
+              "y": 532.734375,
+              "width": 44,
+              "height": 44,
+              "top": 532.734375,
+              "right": 672,
+              "bottom": 576.734375,
+              "left": 628
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Page 1",
+            "cls": "nav-overlay__pagination-bullet is-active",
+            "rect": {
+              "x": 689,
+              "y": 547.734375,
+              "width": 16,
+              "height": 16,
+              "top": 547.734375,
+              "right": 705,
+              "bottom": 563.734375,
+              "left": 689
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Page 2",
+            "cls": "nav-overlay__pagination-bullet",
+            "rect": {
+              "x": 712,
+              "y": 546.734375,
+              "width": 16,
+              "height": 16,
+              "top": 546.734375,
+              "right": 728,
+              "bottom": 562.734375,
+              "left": 712
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Page 3",
+            "cls": "nav-overlay__pagination-bullet",
+            "rect": {
+              "x": 736,
+              "y": 546.734375,
+              "width": 16,
+              "height": 16,
+              "top": 546.734375,
+              "right": 752,
+              "bottom": 562.734375,
+              "left": 736
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Next slide thumbnail",
+            "cls": "btn btn-round swiper-button-next",
+            "rect": {
+              "x": 768,
+              "y": 532.734375,
+              "width": 44,
+              "height": 44,
+              "top": 532.734375,
+              "right": 812,
+              "bottom": 576.734375,
+              "left": 768
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PRESENTER NOTES\nPRESENTER NOTES",
+            "cls": "notes-button",
+            "rect": {
+              "x": 20,
+              "y": 823,
+              "width": 170,
+              "height": 40,
+              "top": 823,
+              "right": 190,
+              "bottom": 863,
+              "left": 20
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PREV",
+            "cls": "btn nav__arrow nav__arrow--prev",
+            "rect": {
+              "x": 561,
+              "y": 801,
+              "width": 102,
+              "height": 54,
+              "top": 801,
+              "right": 663,
+              "bottom": 855,
+              "left": 561
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Display slides menu",
+            "cls": "btn btn-round nav__menu",
+            "rect": {
+              "x": 679,
+              "y": 788,
+              "width": 80,
+              "height": 80,
+              "top": 788,
+              "right": 759,
+              "bottom": 868,
+              "left": 679
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "NEXT",
+            "cls": "btn nav__arrow nav__arrow--next",
+            "rect": {
+              "x": 775,
+              "y": 801,
+              "width": 104,
+              "height": 54,
+              "top": 801,
+              "right": 879,
+              "bottom": 855,
+              "left": 775
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Unmute sound",
+            "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+            "rect": {
+              "x": 1280,
+              "y": 824,
+              "width": 48,
+              "height": 48,
+              "top": 824,
+              "right": 1328,
+              "bottom": 872,
+              "left": 1280
+            },
+            "pe": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "name": "enter",
+      "before": {
+        "txt": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nSLIDES\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nSLIDE 1: COVER SLIDE",
+        "html": 162229,
+        "bg": "rgb(255, 135, 171)",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      },
+      "after": {
+        "url": "https://www.nodeck.online/",
+        "bodyBg": "rgb(255, 135, 171)",
+        "bodyText": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nSLIDES\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nSLIDE 1: COVER SLIDE",
+        "active": [
+          "slide slide--cover is-active"
+        ],
+        "visible": [
+          {
+            "tag": "BUTTON",
+            "text": "Close slides menu",
+            "cls": "btn btn-round nav-overlay__close",
+            "rect": {
+              "x": 1195,
+              "y": 323.25,
+              "width": 40,
+              "height": 40,
+              "top": 323.25,
+              "right": 1235,
+              "bottom": 363.25,
+              "left": 1195
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "1",
+            "cls": "nav-overlay__thumb nav-overlay__thumb--active",
+            "rect": {
+              "x": 205,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 445,
+              "bottom": 516.734375,
+              "left": 205
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "2",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 461,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 701,
+              "bottom": 516.734375,
+              "left": 461
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "3",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 717,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 957,
+              "bottom": 516.734375,
+              "left": 717
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "4",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 973,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 1213,
+              "bottom": 516.734375,
+              "left": 973
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "5",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 1229,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 1469,
+              "bottom": 516.734375,
+              "left": 1229
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "6",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 1485,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 1725,
+              "bottom": 516.734375,
+              "left": 1485
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "7",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 1741,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 1981,
+              "bottom": 516.734375,
+              "left": 1741
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "8",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 1997,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 2237,
+              "bottom": 516.734375,
+              "left": 1997
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "9",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 2253,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 2493,
+              "bottom": 516.734375,
+              "left": 2253
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "10",
+            "cls": "nav-overlay__thumb",
+            "rect": {
+              "x": 2509,
+              "y": 381.734375,
+              "width": 240,
+              "height": 135,
+              "top": 381.734375,
+              "right": 2749,
+              "bottom": 516.734375,
+              "left": 2509
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Previous slide thumbnail",
+            "cls": "btn btn-round swiper-button-prev swiper-button-disabled",
+            "rect": {
+              "x": 628,
+              "y": 532.734375,
+              "width": 44,
+              "height": 44,
+              "top": 532.734375,
+              "right": 672,
+              "bottom": 576.734375,
+              "left": 628
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Page 1",
+            "cls": "nav-overlay__pagination-bullet is-active",
+            "rect": {
+              "x": 689,
+              "y": 547.734375,
+              "width": 16,
+              "height": 16,
+              "top": 547.734375,
+              "right": 705,
+              "bottom": 563.734375,
+              "left": 689
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Page 2",
+            "cls": "nav-overlay__pagination-bullet",
+            "rect": {
+              "x": 712,
+              "y": 546.734375,
+              "width": 16,
+              "height": 16,
+              "top": 546.734375,
+              "right": 728,
+              "bottom": 562.734375,
+              "left": 712
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Page 3",
+            "cls": "nav-overlay__pagination-bullet",
+            "rect": {
+              "x": 736,
+              "y": 546.734375,
+              "width": 16,
+              "height": 16,
+              "top": 546.734375,
+              "right": 752,
+              "bottom": 562.734375,
+              "left": 736
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Next slide thumbnail",
+            "cls": "btn btn-round swiper-button-next",
+            "rect": {
+              "x": 768,
+              "y": 532.734375,
+              "width": 44,
+              "height": 44,
+              "top": 532.734375,
+              "right": 812,
+              "bottom": 576.734375,
+              "left": 768
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PRESENTER NOTES\nPRESENTER NOTES",
+            "cls": "notes-button",
+            "rect": {
+              "x": 20,
+              "y": 823,
+              "width": 170,
+              "height": 40,
+              "top": 823,
+              "right": 190,
+              "bottom": 863,
+              "left": 20
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PREV",
+            "cls": "btn nav__arrow nav__arrow--prev",
+            "rect": {
+              "x": 561,
+              "y": 801,
+              "width": 102,
+              "height": 54,
+              "top": 801,
+              "right": 663,
+              "bottom": 855,
+              "left": 561
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Display slides menu",
+            "cls": "btn btn-round nav__menu",
+            "rect": {
+              "x": 679,
+              "y": 788,
+              "width": 80,
+              "height": 80,
+              "top": 788,
+              "right": 759,
+              "bottom": 868,
+              "left": 679
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "NEXT",
+            "cls": "btn nav__arrow nav__arrow--next",
+            "rect": {
+              "x": 775,
+              "y": 801,
+              "width": 104,
+              "height": 54,
+              "top": 801,
+              "right": 879,
+              "bottom": 855,
+              "left": 775
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Unmute sound",
+            "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+            "rect": {
+              "x": 1280,
+              "y": 824,
+              "width": 48,
+              "height": 48,
+              "top": 824,
+              "right": 1328,
+              "bottom": 872,
+              "left": 1280
+            },
+            "pe": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "name": "escape",
+      "before": {
+        "txt": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nSLIDES\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nSLIDE 1: COVER SLIDE",
+        "html": 162229,
+        "bg": "rgb(255, 135, 171)",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      },
+      "after": {
+        "url": "https://www.nodeck.online/",
+        "bodyBg": "rgb(255, 135, 171)",
+        "bodyText": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nSLIDE 1: COVER SLIDE",
+        "active": [
+          "slide slide--cover is-active"
+        ],
+        "visible": [
+          {
+            "tag": "BUTTON",
+            "text": "PRESENTER NOTES\nPRESENTER NOTES",
+            "cls": "notes-button",
+            "rect": {
+              "x": 20,
+              "y": 823,
+              "width": 170,
+              "height": 40,
+              "top": 823,
+              "right": 190,
+              "bottom": 863,
+              "left": 20
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PREV",
+            "cls": "btn nav__arrow nav__arrow--prev",
+            "rect": {
+              "x": 561,
+              "y": 801,
+              "width": 102,
+              "height": 54,
+              "top": 801,
+              "right": 663,
+              "bottom": 855,
+              "left": 561
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Display slides menu",
+            "cls": "btn btn-round nav__menu",
+            "rect": {
+              "x": 679,
+              "y": 788,
+              "width": 80,
+              "height": 80,
+              "top": 788,
+              "right": 759,
+              "bottom": 868,
+              "left": 679
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "NEXT",
+            "cls": "btn nav__arrow nav__arrow--next",
+            "rect": {
+              "x": 775,
+              "y": 801,
+              "width": 104,
+              "height": 54,
+              "top": 801,
+              "right": 879,
+              "bottom": 855,
+              "left": 775
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Unmute sound",
+            "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+            "rect": {
+              "x": 1280,
+              "y": 824,
+              "width": 48,
+              "height": 48,
+              "top": 824,
+              "right": 1328,
+              "bottom": 872,
+              "left": 1280
+            },
+            "pe": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "name": "key-m",
+      "before": {
+        "txt": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nSLIDE 1: COVER SLIDE",
+        "html": 162220,
+        "bg": "rgb(255, 135, 171)",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      },
+      "after": {
+        "url": "https://www.nodeck.online/",
+        "bodyBg": "rgb(255, 135, 171)",
+        "bodyText": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nSLIDE 1: COVER SLIDE",
+        "active": [
+          "slide slide--cover is-active"
+        ],
+        "visible": [
+          {
+            "tag": "BUTTON",
+            "text": "PRESENTER NOTES\nPRESENTER NOTES",
+            "cls": "notes-button",
+            "rect": {
+              "x": 20,
+              "y": 823,
+              "width": 170,
+              "height": 40,
+              "top": 823,
+              "right": 190,
+              "bottom": 863,
+              "left": 20
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PREV",
+            "cls": "btn nav__arrow nav__arrow--prev",
+            "rect": {
+              "x": 561,
+              "y": 801,
+              "width": 102,
+              "height": 54,
+              "top": 801,
+              "right": 663,
+              "bottom": 855,
+              "left": 561
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Display slides menu",
+            "cls": "btn btn-round nav__menu",
+            "rect": {
+              "x": 679,
+              "y": 788,
+              "width": 80,
+              "height": 80,
+              "top": 788,
+              "right": 759,
+              "bottom": 868,
+              "left": 679
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "NEXT",
+            "cls": "btn nav__arrow nav__arrow--next",
+            "rect": {
+              "x": 775,
+              "y": 801,
+              "width": 104,
+              "height": 54,
+              "top": 801,
+              "right": 879,
+              "bottom": 855,
+              "left": 775
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Unmute sound",
+            "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+            "rect": {
+              "x": 1280,
+              "y": 824,
+              "width": 48,
+              "height": 48,
+              "top": 824,
+              "right": 1328,
+              "bottom": 872,
+              "left": 1280
+            },
+            "pe": "auto"
+          }
+        ]
+      }
+    },
+    {
+      "name": "key-n",
+      "before": {
+        "txt": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nSLIDE 1: COVER SLIDE",
+        "html": 162220,
+        "bg": "rgb(255, 135, 171)",
+        "active": [
+          "slide slide--cover is-active"
+        ]
+      },
+      "after": {
+        "url": "https://www.nodeck.online/",
+        "bodyBg": "rgb(255, 135, 171)",
+        "bodyText": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10\n\nSLIDE 1\n\nSLIDE 1: COVER SLIDE",
+        "active": [
+          "slide slide--cover is-active"
+        ],
+        "visible": [
+          {
+            "tag": "BUTTON",
+            "text": "PRESENTER NOTES\nPRESENTER NOTES",
+            "cls": "notes-button",
+            "rect": {
+              "x": 20,
+              "y": 823,
+              "width": 170,
+              "height": 40,
+              "top": 823,
+              "right": 190,
+              "bottom": 863,
+              "left": 20
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "PREV",
+            "cls": "btn nav__arrow nav__arrow--prev",
+            "rect": {
+              "x": 561,
+              "y": 801,
+              "width": 102,
+              "height": 54,
+              "top": 801,
+              "right": 663,
+              "bottom": 855,
+              "left": 561
+            },
+            "pe": "none"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Display slides menu",
+            "cls": "btn btn-round nav__menu",
+            "rect": {
+              "x": 679,
+              "y": 788,
+              "width": 80,
+              "height": 80,
+              "top": 788,
+              "right": 759,
+              "bottom": 868,
+              "left": 679
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "NEXT",
+            "cls": "btn nav__arrow nav__arrow--next",
+            "rect": {
+              "x": 775,
+              "y": 801,
+              "width": 104,
+              "height": 54,
+              "top": 801,
+              "right": 879,
+              "bottom": 855,
+              "left": 775
+            },
+            "pe": "auto"
+          },
+          {
+            "tag": "BUTTON",
+            "text": "Unmute sound",
+            "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+            "rect": {
+              "x": 1280,
+              "y": 824,
+              "width": 48,
+              "height": 48,
+              "top": 824,
+              "right": 1328,
+              "bottom": 872,
+              "left": 1280
+            },
+            "pe": "auto"
+          }
+        ]
+      }
+    }
+  ],
+  "console": [
+    {
+      "type": "warning",
+      "text": "The resource https://www.nodeck.online/assets/DMSans-ExtraBold-Du-T3CXV.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+    },
+    {
+      "type": "warning",
+      "text": "The resource https://www.nodeck.online/assets/BNDimeDisplay-ChjT9Nsk.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+    },
+    {
+      "type": "warning",
+      "text": "The resource https://www.nodeck.online/assets/DMSans-Regular-C_2fA_LE.woff2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+    }
+  ],
+  "errors": [],
+  "requests": [
+    {
+      "url": "https://www.nodeck.online/",
+      "status": 200,
+      "type": "document",
+      "ct": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/main-CGAIvE7P.css",
+      "status": 200,
+      "type": "stylesheet",
+      "ct": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/BNDimeDisplay-ChjT9Nsk.woff2",
+      "status": 200,
+      "type": "font",
+      "ct": "font/woff2"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/DMSans-ExtraBold-Du-T3CXV.woff2",
+      "status": 200,
+      "type": "font",
+      "ct": "font/woff2"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/cover-highlighter-250w-Z7-uXy6C.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/cover-note-_YF5cdeR.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/sound-DPrmtOOx.css",
+      "status": 200,
+      "type": "stylesheet",
+      "ct": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/DMSans-Regular-C_2fA_LE.woff2",
+      "status": 200,
+      "type": "font",
+      "ct": "font/woff2"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/howler-EcGChfno.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/sound-Cx2MfzRS.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/gsap-DUAj52go.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/highlighter-Ch3Ojh-h.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/main-9-MUO4ea.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/eraser-DOZBiFCp.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/keyboard-DmciUvVR.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pen-stroke-2-DGmJPws0.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/paper-short-BvcplJlM.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/sike-CPTnpV1A.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide1-nav-overlay-Bs1me8B1.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pen-stroke-1-VTa0nQ0G.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide9-nav-overlay-BgSjdwVH.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide5-nav-overlay-CLaVZfQc.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide3-nav-overlay-B0-80V_3.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide6-nav-overlay-BuPSfQJG.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide10-nav-overlay-WAziZkm9.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide7-nav-overlay-y91Z7Ntk.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide2-nav-overlay-CuXcvkNh.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide4-nav-overlay-CBMc4pjQ.webp",
+      "status": 200,
+      "type": "image",
+      "ct": "image/webp"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/button-DkstwzwS.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/paper-Bkugm2fe.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/transition-DpDC42_v.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/click-C7haxnkT.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pin-hit-BRKXb9bf.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pop-1-B4vg85z0.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/game-click-CrQvsEwg.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/highlighter-3-C1Y9WXZR.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/highlighter-2-CESNcyo6.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pop-3-DE83Lziy.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/game-pickup-CUG24MFl.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/highlighter-1-xWJiU_tz.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pop-2-DiP7LmqZ.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/game-death-C76uMFwl.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/game-damage-CqYXMXy4.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/_vercel/insights/script.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/_vercel/speed-insights/script.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/swiper-ifTXOBYm.css",
+      "status": 200,
+      "type": "stylesheet",
+      "ct": "text/css; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/swiper-Be0lv62q.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/swiper-hP8iLu9g.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide2-marker-Dw79jupH.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://www.nodeck.online/",
+      "status": 200,
+      "type": "document",
+      "ct": "text/html; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/DMSans-Regular-C_2fA_LE.woff2",
+      "status": 304,
+      "type": "font",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/BNDimeDisplay-ChjT9Nsk.woff2",
+      "status": 304,
+      "type": "font",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/DMSans-ExtraBold-Du-T3CXV.woff2",
+      "status": 304,
+      "type": "font",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/sound-DPrmtOOx.css",
+      "status": 304,
+      "type": "stylesheet",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/main-CGAIvE7P.css",
+      "status": 304,
+      "type": "stylesheet",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/cover-highlighter-250w-Z7-uXy6C.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/sound-Cx2MfzRS.js",
+      "status": 304,
+      "type": "script",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/cover-note-_YF5cdeR.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/gsap-DUAj52go.js",
+      "status": 304,
+      "type": "script",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/main-9-MUO4ea.js",
+      "status": 304,
+      "type": "script",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/highlighter-Ch3Ojh-h.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/howler-EcGChfno.js",
+      "status": 304,
+      "type": "script",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/_vercel/insights/script.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/_vercel/speed-insights/script.js",
+      "status": 200,
+      "type": "script",
+      "ct": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/keyboard-DmciUvVR.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/sike-CPTnpV1A.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pen-stroke-1-VTa0nQ0G.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/paper-short-BvcplJlM.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pen-stroke-2-DGmJPws0.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide1-nav-overlay-Bs1me8B1.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/button-DkstwzwS.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide3-nav-overlay-B0-80V_3.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide10-nav-overlay-WAziZkm9.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide2-nav-overlay-CuXcvkNh.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide7-nav-overlay-y91Z7Ntk.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide5-nav-overlay-CLaVZfQc.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide4-nav-overlay-CBMc4pjQ.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide6-nav-overlay-BuPSfQJG.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/click-C7haxnkT.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/transition-DpDC42_v.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide9-nav-overlay-BgSjdwVH.webp",
+      "status": 304,
+      "type": "image",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pin-hit-BRKXb9bf.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/eraser-DOZBiFCp.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/paper-Bkugm2fe.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pop-2-DiP7LmqZ.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pop-1-B4vg85z0.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/pop-3-DE83Lziy.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/highlighter-2-CESNcyo6.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/highlighter-1-xWJiU_tz.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/highlighter-3-C1Y9WXZR.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/game-death-C76uMFwl.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/game-pickup-CUG24MFl.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/game-click-CrQvsEwg.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/game-damage-CqYXMXy4.ogg",
+      "status": 200,
+      "type": "xhr",
+      "ct": "audio/ogg"
+    },
+    {
+      "url": "https://www.nodeck.online/assets/swiper-hP8iLu9g.js",
+      "status": 304,
+      "type": "script",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/swiper-ifTXOBYm.css",
+      "status": 304,
+      "type": "stylesheet",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/swiper-Be0lv62q.js",
+      "status": 304,
+      "type": "script",
+      "ct": ""
+    },
+    {
+      "url": "https://www.nodeck.online/assets/slide2-marker-Dw79jupH.svg",
+      "status": 200,
+      "type": "image",
+      "ct": "image/svg+xml"
+    }
+  ]
+}

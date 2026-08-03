@@ -1,0 +1,329 @@
+[
+  {
+    "url": "http://127.0.0.1:44118/",
+    "label": "clone-home",
+    "init": {
+      "url": "http://127.0.0.1:44118/",
+      "title": "Nodeck | A Presentation Website That Hates Presentations",
+      "bg": "rgb(255, 135, 171)",
+      "text": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10",
+      "slide": [
+        "slide slide--cover is-active"
+      ],
+      "resources": [
+        "http://127.0.0.1:44118/assets/BNDimeDisplay-ChjT9Nsk.woff2",
+        "http://127.0.0.1:44118/assets/DMSans-Regular-C_2fA_LE.woff2",
+        "http://127.0.0.1:44118/assets/DMSans-ExtraBold-Du-T3CXV.woff2",
+        "http://127.0.0.1:44118/assets/cover-highlighter-250w-Z7-uXy6C.webp",
+        "http://127.0.0.1:44118/assets/cover-note-_YF5cdeR.webp",
+        "http://127.0.0.1:44118/assets/main-9-MUO4ea.js",
+        "http://127.0.0.1:44118/assets/gsap-DUAj52go.js",
+        "http://127.0.0.1:44118/assets/howler-EcGChfno.js",
+        "http://127.0.0.1:44118/assets/sound-Cx2MfzRS.js",
+        "http://127.0.0.1:44118/assets/sound-DPrmtOOx.css",
+        "http://127.0.0.1:44118/assets/main-CGAIvE7P.css",
+        "http://127.0.0.1:44118/assets/highlighter-Ch3Ojh-h.svg",
+        "http://127.0.0.1:44118/assets/eraser-DOZBiFCp.ogg",
+        "http://127.0.0.1:44118/assets/keyboard-DmciUvVR.ogg",
+        "http://127.0.0.1:44118/assets/sike-CPTnpV1A.ogg",
+        "http://127.0.0.1:44118/assets/paper-short-BvcplJlM.ogg",
+        "http://127.0.0.1:44118/assets/pen-stroke-1-VTa0nQ0G.ogg",
+        "http://127.0.0.1:44118/assets/pen-stroke-2-DGmJPws0.ogg",
+        "http://127.0.0.1:44118/assets/button-DkstwzwS.ogg",
+        "http://127.0.0.1:44118/assets/click-C7haxnkT.ogg",
+        "http://127.0.0.1:44118/assets/transition-DpDC42_v.ogg",
+        "http://127.0.0.1:44118/assets/pin-hit-BRKXb9bf.ogg",
+        "http://127.0.0.1:44118/assets/paper-Bkugm2fe.ogg",
+        "http://127.0.0.1:44118/assets/pop-1-B4vg85z0.ogg",
+        "http://127.0.0.1:44118/assets/pop-2-DiP7LmqZ.ogg",
+        "http://127.0.0.1:44118/assets/pop-3-DE83Lziy.ogg",
+        "http://127.0.0.1:44118/assets/highlighter-1-xWJiU_tz.ogg",
+        "http://127.0.0.1:44118/assets/highlighter-2-CESNcyo6.ogg",
+        "http://127.0.0.1:44118/assets/highlighter-3-C1Y9WXZR.ogg",
+        "http://127.0.0.1:44118/assets/game-click-CrQvsEwg.ogg",
+        "http://127.0.0.1:44118/assets/game-damage-CqYXMXy4.ogg",
+        "http://127.0.0.1:44118/assets/game-death-C76uMFwl.ogg",
+        "http://127.0.0.1:44118/assets/game-pickup-CUG24MFl.ogg",
+        "http://127.0.0.1:44118/_vercel/insights/script.js",
+        "http://127.0.0.1:44118/_vercel/speed-insights/script.js",
+        "http://127.0.0.1:44118/assets/slide1-nav-overlay-Bs1me8B1.webp",
+        "http://127.0.0.1:44118/assets/slide2-nav-overlay-CuXcvkNh.webp",
+        "http://127.0.0.1:44118/assets/slide3-nav-overlay-B0-80V_3.webp",
+        "http://127.0.0.1:44118/assets/slide4-nav-overlay-CBMc4pjQ.webp",
+        "http://127.0.0.1:44118/assets/slide5-nav-overlay-CLaVZfQc.webp",
+        "http://127.0.0.1:44118/assets/slide6-nav-overlay-BuPSfQJG.webp",
+        "http://127.0.0.1:44118/assets/slide7-nav-overlay-y91Z7Ntk.webp",
+        "http://127.0.0.1:44118/assets/slide9-nav-overlay-BgSjdwVH.webp",
+        "http://127.0.0.1:44118/assets/slide10-nav-overlay-WAziZkm9.webp",
+        "http://127.0.0.1:44118/assets/swiper-Be0lv62q.js",
+        "http://127.0.0.1:44118/assets/swiper-hP8iLu9g.js",
+        "http://127.0.0.1:44118/assets/swiper-ifTXOBYm.css"
+      ]
+    },
+    "actions": [
+      {
+        "bg": "rgb(255, 135, 171)",
+        "text": "THE PROBLEM\n\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nTHE PROBLEM\n\nSLIDE 2: THE PROBLEM",
+        "slide": [
+          "slide slide--problem is-active"
+        ]
+      },
+      {
+        "bg": "rgb(255, 135, 171)",
+        "text": "THE PROBLEM\n\nEVERY YEAR, BILLIONS ARE SPENT ON DECKS NOBODY READS, FRAMEWORKS NOBODY USES, AND CONSULTANTS NOBODY REMEMBERS.\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nSLIDE 2: THE PROBLEM",
+        "slide": [
+          "slide slide--problem is-active"
+        ]
+      },
+      {
+        "overlay": "visible",
+        "visible": 10
+      }
+    ],
+    "errs": [],
+    "cons": [],
+    "fails": [],
+    "res": []
+  },
+  {
+    "url": "https://www.nodeck.online/",
+    "label": "original-home",
+    "init": {
+      "url": "https://www.nodeck.online/",
+      "title": "Nodeck | A Presentation Website That Hates Presentations",
+      "bg": "rgb(255, 135, 171)",
+      "text": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10",
+      "slide": [
+        "slide slide--cover is-active"
+      ],
+      "resources": [
+        "https://www.nodeck.online/assets/BNDimeDisplay-ChjT9Nsk.woff2",
+        "https://www.nodeck.online/assets/DMSans-Regular-C_2fA_LE.woff2",
+        "https://www.nodeck.online/assets/DMSans-ExtraBold-Du-T3CXV.woff2",
+        "https://www.nodeck.online/assets/cover-highlighter-250w-Z7-uXy6C.webp",
+        "https://www.nodeck.online/assets/cover-note-_YF5cdeR.webp",
+        "https://www.nodeck.online/assets/main-9-MUO4ea.js",
+        "https://www.nodeck.online/assets/gsap-DUAj52go.js",
+        "https://www.nodeck.online/assets/howler-EcGChfno.js",
+        "https://www.nodeck.online/assets/sound-DPrmtOOx.css",
+        "https://www.nodeck.online/assets/sound-Cx2MfzRS.js",
+        "https://www.nodeck.online/assets/main-CGAIvE7P.css",
+        "https://www.nodeck.online/assets/eraser-DOZBiFCp.ogg",
+        "https://www.nodeck.online/assets/keyboard-DmciUvVR.ogg",
+        "https://www.nodeck.online/assets/sike-CPTnpV1A.ogg",
+        "https://www.nodeck.online/assets/paper-short-BvcplJlM.ogg",
+        "https://www.nodeck.online/assets/pen-stroke-1-VTa0nQ0G.ogg",
+        "https://www.nodeck.online/assets/pen-stroke-2-DGmJPws0.ogg",
+        "https://www.nodeck.online/assets/button-DkstwzwS.ogg",
+        "https://www.nodeck.online/assets/click-C7haxnkT.ogg",
+        "https://www.nodeck.online/assets/transition-DpDC42_v.ogg",
+        "https://www.nodeck.online/assets/pin-hit-BRKXb9bf.ogg",
+        "https://www.nodeck.online/assets/paper-Bkugm2fe.ogg",
+        "https://www.nodeck.online/assets/pop-1-B4vg85z0.ogg",
+        "https://www.nodeck.online/assets/pop-2-DiP7LmqZ.ogg",
+        "https://www.nodeck.online/assets/pop-3-DE83Lziy.ogg",
+        "https://www.nodeck.online/assets/highlighter-1-xWJiU_tz.ogg",
+        "https://www.nodeck.online/assets/highlighter-2-CESNcyo6.ogg",
+        "https://www.nodeck.online/assets/highlighter-3-C1Y9WXZR.ogg",
+        "https://www.nodeck.online/assets/game-click-CrQvsEwg.ogg",
+        "https://www.nodeck.online/assets/game-damage-CqYXMXy4.ogg",
+        "https://www.nodeck.online/assets/game-death-C76uMFwl.ogg",
+        "https://www.nodeck.online/assets/game-pickup-CUG24MFl.ogg",
+        "https://www.nodeck.online/assets/highlighter-Ch3Ojh-h.svg",
+        "https://www.nodeck.online/_vercel/insights/script.js",
+        "https://www.nodeck.online/_vercel/speed-insights/script.js",
+        "https://www.nodeck.online/assets/slide1-nav-overlay-Bs1me8B1.webp",
+        "https://www.nodeck.online/assets/slide4-nav-overlay-CBMc4pjQ.webp",
+        "https://www.nodeck.online/assets/slide2-nav-overlay-CuXcvkNh.webp",
+        "https://www.nodeck.online/assets/slide3-nav-overlay-B0-80V_3.webp",
+        "https://www.nodeck.online/assets/slide7-nav-overlay-y91Z7Ntk.webp",
+        "https://www.nodeck.online/assets/slide5-nav-overlay-CLaVZfQc.webp",
+        "https://www.nodeck.online/assets/slide6-nav-overlay-BuPSfQJG.webp",
+        "https://www.nodeck.online/assets/slide10-nav-overlay-WAziZkm9.webp",
+        "https://www.nodeck.online/assets/slide9-nav-overlay-BgSjdwVH.webp",
+        "https://www.nodeck.online/assets/swiper-Be0lv62q.js",
+        "https://www.nodeck.online/assets/swiper-hP8iLu9g.js",
+        "https://www.nodeck.online/assets/swiper-ifTXOBYm.css"
+      ]
+    },
+    "actions": [
+      {
+        "bg": "rgb(255, 135, 171)",
+        "text": "THE PROBLEM\n\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nTHE PROBLEM\n\nSLIDE 2: THE PROBLEM",
+        "slide": [
+          "slide slide--problem is-active"
+        ]
+      },
+      {
+        "bg": "rgb(255, 135, 171)",
+        "text": "THE PROBLEM\n\nEVERY YEAR, BILLIONS ARE SPENT ON DECKS NOBODY READS, FRAMEWORKS NOBODY USES, AND CONSULTANTS NOBODY REMEMBERS.\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nSLIDE 2: THE PROBLEM",
+        "slide": [
+          "slide slide--problem is-active"
+        ]
+      },
+      {
+        "overlay": "visible",
+        "visible": 10
+      }
+    ],
+    "errs": [],
+    "cons": [],
+    "fails": [],
+    "res": []
+  },
+  {
+    "url": "http://127.0.0.1:44118/404",
+    "label": "clone-404",
+    "init": {
+      "url": "http://127.0.0.1:44118/404/",
+      "title": "Nodeck 404 | PowerPoint War Adventure",
+      "bg": "rgb(222, 249, 21)",
+      "text": "Page not found (404) — PowerPoint War Adventure\n\nPOWERPOINT WAR ADVENTURE\n\nSTART GAME\n\nPRESS ENTER OR E\n\nHome",
+      "slide": [],
+      "resources": [
+        "http://127.0.0.1:44118/assets/404-DcGRFIg2.js",
+        "http://127.0.0.1:44118/assets/gsap-DUAj52go.js",
+        "http://127.0.0.1:44118/assets/howler-EcGChfno.js",
+        "http://127.0.0.1:44118/assets/sound-Cx2MfzRS.js",
+        "http://127.0.0.1:44118/assets/phaser-D3izK-R_.js",
+        "http://127.0.0.1:44118/assets/sound-DPrmtOOx.css",
+        "http://127.0.0.1:44118/assets/404-C0-ewVAb.css",
+        "http://127.0.0.1:44118/assets/nodeck-pattern-tile-Co5aXMss.png",
+        "http://127.0.0.1:44118/assets/DMSans-ExtraBold-Du-T3CXV.woff2",
+        "http://127.0.0.1:44118/assets/BNDimeDisplay-ChjT9Nsk.woff2",
+        "http://127.0.0.1:44118/assets/eraser-DOZBiFCp.ogg",
+        "http://127.0.0.1:44118/assets/keyboard-DmciUvVR.ogg",
+        "http://127.0.0.1:44118/assets/sike-CPTnpV1A.ogg",
+        "http://127.0.0.1:44118/assets/paper-short-BvcplJlM.ogg",
+        "http://127.0.0.1:44118/assets/pen-stroke-1-VTa0nQ0G.ogg",
+        "http://127.0.0.1:44118/assets/pen-stroke-2-DGmJPws0.ogg",
+        "http://127.0.0.1:44118/assets/button-DkstwzwS.ogg",
+        "http://127.0.0.1:44118/assets/click-C7haxnkT.ogg",
+        "http://127.0.0.1:44118/assets/transition-DpDC42_v.ogg",
+        "http://127.0.0.1:44118/assets/pin-hit-BRKXb9bf.ogg",
+        "http://127.0.0.1:44118/assets/paper-Bkugm2fe.ogg",
+        "http://127.0.0.1:44118/assets/pop-1-B4vg85z0.ogg",
+        "http://127.0.0.1:44118/assets/pop-2-DiP7LmqZ.ogg",
+        "http://127.0.0.1:44118/assets/pop-3-DE83Lziy.ogg",
+        "http://127.0.0.1:44118/assets/highlighter-1-xWJiU_tz.ogg",
+        "http://127.0.0.1:44118/assets/highlighter-2-CESNcyo6.ogg",
+        "http://127.0.0.1:44118/assets/highlighter-3-C1Y9WXZR.ogg",
+        "http://127.0.0.1:44118/assets/game-click-CrQvsEwg.ogg",
+        "http://127.0.0.1:44118/assets/game-damage-CqYXMXy4.ogg",
+        "http://127.0.0.1:44118/assets/game-death-C76uMFwl.ogg",
+        "http://127.0.0.1:44118/assets/game-pickup-CUG24MFl.ogg"
+      ]
+    },
+    "actions": [
+      {
+        "text": "Score 0\nBest 0\n\nE — Talk\n\nHome\nE",
+        "canvas": [
+          {
+            "r": {
+              "x": 76,
+              "y": 32,
+              "width": 1287.109375,
+              "height": 724,
+              "top": 32,
+              "right": 1363.109375,
+              "bottom": 756,
+              "left": 76
+            },
+            "w": 1280,
+            "h": 720
+          }
+        ]
+      }
+    ],
+    "errs": [],
+    "cons": [
+      {
+        "type": "warning",
+        "text": "[.WebGL-0xddc01548600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0xddc01548600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0xddc01548600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels"
+      },
+      {
+        "type": "warning",
+        "text": "[.WebGL-0xddc01548600]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)"
+      }
+    ],
+    "fails": [],
+    "res": []
+  },
+  {
+    "url": "https://www.nodeck.online/404",
+    "label": "original-404",
+    "init": {
+      "url": "https://www.nodeck.online/404",
+      "title": "Nodeck 404 | PowerPoint War Adventure",
+      "bg": "rgb(222, 249, 21)",
+      "text": "Page not found (404) — PowerPoint War Adventure\n\nPOWERPOINT WAR ADVENTURE\n\nSTART GAME\n\nPRESS ENTER OR E\n\nHome",
+      "slide": [],
+      "resources": [
+        "https://www.nodeck.online/assets/404-DcGRFIg2.js",
+        "https://www.nodeck.online/assets/gsap-DUAj52go.js",
+        "https://www.nodeck.online/assets/howler-EcGChfno.js",
+        "https://www.nodeck.online/assets/sound-Cx2MfzRS.js",
+        "https://www.nodeck.online/assets/phaser-D3izK-R_.js",
+        "https://www.nodeck.online/assets/sound-DPrmtOOx.css",
+        "https://www.nodeck.online/assets/404-C0-ewVAb.css",
+        "https://www.nodeck.online/assets/nodeck-pattern-tile-Co5aXMss.png",
+        "https://www.nodeck.online/assets/DMSans-ExtraBold-Du-T3CXV.woff2",
+        "https://www.nodeck.online/assets/BNDimeDisplay-ChjT9Nsk.woff2",
+        "https://www.nodeck.online/assets/eraser-DOZBiFCp.ogg",
+        "https://www.nodeck.online/assets/keyboard-DmciUvVR.ogg",
+        "https://www.nodeck.online/assets/sike-CPTnpV1A.ogg",
+        "https://www.nodeck.online/assets/paper-short-BvcplJlM.ogg",
+        "https://www.nodeck.online/assets/pen-stroke-1-VTa0nQ0G.ogg",
+        "https://www.nodeck.online/assets/pen-stroke-2-DGmJPws0.ogg",
+        "https://www.nodeck.online/assets/button-DkstwzwS.ogg",
+        "https://www.nodeck.online/assets/click-C7haxnkT.ogg",
+        "https://www.nodeck.online/assets/transition-DpDC42_v.ogg",
+        "https://www.nodeck.online/assets/pin-hit-BRKXb9bf.ogg",
+        "https://www.nodeck.online/assets/paper-Bkugm2fe.ogg",
+        "https://www.nodeck.online/assets/pop-1-B4vg85z0.ogg",
+        "https://www.nodeck.online/assets/pop-2-DiP7LmqZ.ogg",
+        "https://www.nodeck.online/assets/pop-3-DE83Lziy.ogg",
+        "https://www.nodeck.online/assets/highlighter-1-xWJiU_tz.ogg",
+        "https://www.nodeck.online/assets/highlighter-2-CESNcyo6.ogg",
+        "https://www.nodeck.online/assets/highlighter-3-C1Y9WXZR.ogg",
+        "https://www.nodeck.online/assets/game-click-CrQvsEwg.ogg",
+        "https://www.nodeck.online/assets/game-damage-CqYXMXy4.ogg",
+        "https://www.nodeck.online/assets/game-death-C76uMFwl.ogg",
+        "https://www.nodeck.online/assets/game-pickup-CUG24MFl.ogg"
+      ]
+    },
+    "actions": [
+      {
+        "text": "Score 0\nBest 0\n\nE — Talk\n\nHome\nE",
+        "canvas": [
+          {
+            "r": {
+              "x": 76,
+              "y": 32,
+              "width": 1287.109375,
+              "height": 724,
+              "top": 32,
+              "right": 1363.109375,
+              "bottom": 756,
+              "left": 76
+            },
+            "w": 1280,
+            "h": 720
+          }
+        ]
+      }
+    ],
+    "errs": [],
+    "cons": [],
+    "fails": [],
+    "res": []
+  }
+]

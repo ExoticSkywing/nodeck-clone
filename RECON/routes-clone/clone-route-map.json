@@ -1,0 +1,151 @@
+{
+  "label": "clone",
+  "url": "http://127.0.0.1:44118",
+  "capturedAt": "2026-08-03T09:49:51.120Z",
+  "maxPages": 3,
+  "maxDepth": 1,
+  "allowSubdomains": false,
+  "routes": [
+    {
+      "url": "http://127.0.0.1:44118",
+      "from": "",
+      "depth": 0,
+      "status": 200,
+      "title": "Nodeck | A Presentation Website That Hates Presentations",
+      "lang": "en",
+      "metaDescription": "Nodeck is an anti-PowerPoint interactive web experience turning corporate presentation culture into a playful world of motion, sound and chaos.",
+      "h1": [
+        "Nodeck — consulting for startups"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Nodeck — consulting for startups"
+        },
+        {
+          "tag": "h2",
+          "text": "Every year, billions are spent on decks nobody reads, frameworks nobody uses, and consultants nobody remembers."
+        },
+        {
+          "tag": "h2",
+          "text": "THE BEST PITCH IS NO PITCH.1"
+        },
+        {
+          "tag": "h2",
+          "text": "THE BEST DECK IS NO DECK.2"
+        },
+        {
+          "tag": "h2",
+          "text": "THE BEST DEAL IS A SIGNED ONE.3"
+        },
+        {
+          "tag": "h2",
+          "text": "Win the room."
+        },
+        {
+          "tag": "h3",
+          "text": "Good product. Great slides. Everyone smiles. No contract."
+        },
+        {
+          "tag": "h3",
+          "text": "We find what's killing the deal and help to fix it."
+        },
+        {
+          "tag": "h3",
+          "text": "More yes. Fewer follow-ups. Less \"we'll think about it.\""
+        },
+        {
+          "tag": "h2",
+          "text": "What wedon't do"
+        },
+        {
+          "tag": "h2",
+          "text": "We Work With"
+        },
+        {
+          "tag": "h3",
+          "text": "Founders"
+        },
+        {
+          "tag": "h3",
+          "text": "Revenue teams"
+        },
+        {
+          "tag": "h3",
+          "text": "And..."
+        },
+        {
+          "tag": "h2",
+          "text": "WE READ THE ROOM. WE FIND THE FRICTION. WE SAY WHAT EVERYONE ELSE WON'T."
+        },
+        {
+          "tag": "h3",
+          "text": "1 meeting.1 question.$4M Saved."
+        },
+        {
+          "tag": "h3",
+          "text": "12 advisors.1 tough answer."
+        },
+        {
+          "tag": "h3",
+          "text": "84 slides.Problem: slide 3."
+        },
+        {
+          "tag": "h2",
+          "text": "If, after all of this, you still want a presentation —be our guest. Click below."
+        },
+        {
+          "tag": "h3",
+          "text": "$4M Never Spent."
+        },
+        {
+          "tag": "h3",
+          "text": "They wanted validation.We gave them reality."
+        },
+        {
+          "tag": "h3",
+          "text": "They Brought 84 Slides.We Kept One."
+        }
+      ],
+      "counts": {
+        "links": 27,
+        "images": 34,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 48
+      },
+      "linkCount": 27,
+      "screenshot": "screenshots/127.0.0.1-0b00f1da.png",
+      "consoleErrors": []
+    },
+    {
+      "url": "http://127.0.0.1:44118/404",
+      "from": "http://127.0.0.1:44118",
+      "depth": 1,
+      "status": 200,
+      "title": "Nodeck 404 | PowerPoint War Adventure",
+      "lang": "en",
+      "metaDescription": "You’re off the deck. Enter Nodeck’s PowerPoint War, dodge falling slides, and survive the chaos.",
+      "h1": [
+        "Page not found (404) — PowerPoint War Adventure"
+      ],
+      "headings": [
+        {
+          "tag": "h1",
+          "text": "Page not found (404) — PowerPoint War Adventure"
+        }
+      ],
+      "counts": {
+        "links": 1,
+        "images": 3,
+        "canvas": 0,
+        "forms": 0,
+        "buttons": 7
+      },
+      "linkCount": 1,
+      "screenshot": "screenshots/127.0.0.1-404-8f748046.png",
+      "consoleErrors": []
+    }
+  ],
+  "skipped": []
+}

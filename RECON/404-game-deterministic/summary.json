@@ -1,0 +1,56 @@
+{
+  "stateEqual": true,
+  "shotEqual": false,
+  "originalSha": "f654380bb9000edb9fda6ce87458ea5f190e83b3423ed5ee49f6835a77f73a44",
+  "cloneSha": "099eb0a86733f214bc06a894184d2a6d6f10b91838e6b5a8f1360921aa2dec96",
+  "originalIssues": {
+    "errors": [],
+    "console": [],
+    "http": [],
+    "failed": []
+  },
+  "cloneIssues": {
+    "errors": [],
+    "console": [],
+    "http": [],
+    "failed": []
+  },
+  "sa": {
+    "text": "Score 0\nBest 0\n\nE — Talk\n\nHome\nE",
+    "canvases": [
+      {
+        "w": 1280,
+        "h": 720,
+        "r": {
+          "x": 76,
+          "y": 32,
+          "width": 1287.109375,
+          "height": 724,
+          "top": 32,
+          "right": 1363.109375,
+          "bottom": 756,
+          "left": 76
+        }
+      }
+    ]
+  },
+  "sb": {
+    "text": "Score 0\nBest 0\n\nE — Talk\n\nHome\nE",
+    "canvases": [
+      {
+        "w": 1280,
+        "h": 720,
+        "r": {
+          "x": 76,
+          "y": 32,
+          "width": 1287.109375,
+          "height": 724,
+          "top": 32,
+          "right": 1363.109375,
+          "bottom": 756,
+          "left": 76
+        }
+      }
+    ]
+  }
+}

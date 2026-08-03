@@ -1,0 +1,290 @@
+[
+  {
+    "url": "https://www.nodeck.online/",
+    "status": 200,
+    "type": "document",
+    "ct": "text/html; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/sound-DPrmtOOx.css",
+    "status": 200,
+    "type": "stylesheet",
+    "ct": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/DMSans-ExtraBold-Du-T3CXV.woff2",
+    "status": 200,
+    "type": "font",
+    "ct": "font/woff2"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/howler-EcGChfno.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/cover-note-_YF5cdeR.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/cover-highlighter-250w-Z7-uXy6C.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/DMSans-Regular-C_2fA_LE.woff2",
+    "status": 200,
+    "type": "font",
+    "ct": "font/woff2"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/BNDimeDisplay-ChjT9Nsk.woff2",
+    "status": 200,
+    "type": "font",
+    "ct": "font/woff2"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/gsap-DUAj52go.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/main-CGAIvE7P.css",
+    "status": 200,
+    "type": "stylesheet",
+    "ct": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/main-9-MUO4ea.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/sound-Cx2MfzRS.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/highlighter-Ch3Ojh-h.svg",
+    "status": 200,
+    "type": "image",
+    "ct": "image/svg+xml"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/eraser-DOZBiFCp.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/pen-stroke-2-DGmJPws0.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/button-DkstwzwS.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/pen-stroke-1-VTa0nQ0G.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/paper-short-BvcplJlM.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/pin-hit-BRKXb9bf.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/pop-2-DiP7LmqZ.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/click-C7haxnkT.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/highlighter-1-xWJiU_tz.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/paper-Bkugm2fe.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/transition-DpDC42_v.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/pop-1-B4vg85z0.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/highlighter-2-CESNcyo6.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/slide2-nav-overlay-CuXcvkNh.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/slide1-nav-overlay-Bs1me8B1.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/slide9-nav-overlay-BgSjdwVH.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/slide5-nav-overlay-CLaVZfQc.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/slide4-nav-overlay-CBMc4pjQ.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/pop-3-DE83Lziy.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/game-pickup-CUG24MFl.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/game-damage-CqYXMXy4.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/game-death-C76uMFwl.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/game-click-CrQvsEwg.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/highlighter-3-C1Y9WXZR.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/sike-CPTnpV1A.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/_vercel/speed-insights/script.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/keyboard-DmciUvVR.ogg",
+    "status": 200,
+    "type": "xhr",
+    "ct": "audio/ogg"
+  },
+  {
+    "url": "https://www.nodeck.online/_vercel/insights/script.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/slide10-nav-overlay-WAziZkm9.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/slide7-nav-overlay-y91Z7Ntk.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/slide6-nav-overlay-BuPSfQJG.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/slide3-nav-overlay-B0-80V_3.webp",
+    "status": 200,
+    "type": "image",
+    "ct": "image/webp"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/swiper-ifTXOBYm.css",
+    "status": 200,
+    "type": "stylesheet",
+    "ct": "text/css; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/swiper-Be0lv62q.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  },
+  {
+    "url": "https://www.nodeck.online/assets/swiper-hP8iLu9g.js",
+    "status": 200,
+    "type": "script",
+    "ct": "application/javascript; charset=utf-8"
+  }
+]

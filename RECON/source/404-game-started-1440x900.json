@@ -1,0 +1,106 @@
+{
+  "text": "Score 0\nBest 0\n\nE — Talk\n\nHome\nE",
+  "bg": "rgb(222, 249, 21)",
+  "canvases": [
+    {
+      "rect": {
+        "x": 76,
+        "y": 32,
+        "width": 1287.109375,
+        "height": 724,
+        "top": 32,
+        "right": 1363.109375,
+        "bottom": 756,
+        "left": 76
+      },
+      "w": 1280,
+      "h": 720
+    }
+  ],
+  "visible": [
+    {
+      "text": "Home",
+      "cls": "statusbar__home",
+      "rect": {
+        "x": 32,
+        "y": 847,
+        "width": 71.59375,
+        "height": 21,
+        "top": 847,
+        "right": 103.59375,
+        "bottom": 868,
+        "left": 32
+      }
+    },
+    {
+      "text": "Move left",
+      "cls": "nav__dir nav__dir--left",
+      "rect": {
+        "x": 596,
+        "y": 797,
+        "width": 68,
+        "height": 68,
+        "top": 797,
+        "right": 664,
+        "bottom": 865,
+        "left": 596
+      }
+    },
+    {
+      "text": "Move right",
+      "cls": "nav__dir nav__dir--right",
+      "rect": {
+        "x": 664,
+        "y": 797,
+        "width": 68,
+        "height": 68,
+        "top": 797,
+        "right": 732,
+        "bottom": 865,
+        "left": 664
+      }
+    },
+    {
+      "text": "E",
+      "cls": "nav__action",
+      "rect": {
+        "x": 767,
+        "y": 788,
+        "width": 80,
+        "height": 80,
+        "top": 788,
+        "right": 847,
+        "bottom": 868,
+        "left": 767
+      }
+    },
+    {
+      "text": "Pause background motion",
+      "cls": "btn btn-round pattern-pause",
+      "rect": {
+        "x": 1296,
+        "y": 820,
+        "width": 48,
+        "height": 48,
+        "top": 820,
+        "right": 1344,
+        "bottom": 868,
+        "left": 1296
+      }
+    },
+    {
+      "text": "Unmute sound",
+      "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+      "rect": {
+        "x": 1360,
+        "y": 824,
+        "width": 48,
+        "height": 48,
+        "top": 824,
+        "right": 1408,
+        "bottom": 872,
+        "left": 1360
+      }
+    }
+  ]
+}

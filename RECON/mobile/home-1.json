@@ -1,0 +1,26 @@
+{
+  "original": {
+    "width": 390,
+    "height": 844
+  },
+  "clone": {
+    "width": 390,
+    "height": 844
+  },
+  "comparedCanvas": {
+    "width": 390,
+    "height": 844
+  },
+  "threshold": 0.02,
+  "changedPixels": 0,
+  "totalPixels": 329160,
+  "diffPixelRatio": 0,
+  "meanAbsDiff": 0,
+  "rmse": 0,
+  "visualScore": 5,
+  "files": {
+    "original": "/root/.hermes/profiles/frontend/workspace/nodeck-clone/RECON/mobile/original-home-1.png",
+    "clone": "/root/.hermes/profiles/frontend/workspace/nodeck-clone/RECON/mobile/clone-home-1.png",
+    "diff": "/root/.hermes/profiles/frontend/workspace/nodeck-clone/RECON/mobile/home-1-diff.png"
+  }
+}

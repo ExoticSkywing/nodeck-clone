@@ -1,0 +1,123 @@
+{
+  "url": "https://www.nodeck.online/",
+  "title": "Nodeck | A Presentation Website That Hates Presentations",
+  "bodyText": "THE PROBLEM\n\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nTHE PROBLEM\n\nSLIDE 2: THE PROBLEM",
+  "bodyBg": "rgb(255, 135, 171)",
+  "classes": "",
+  "visible": [
+    {
+      "tag": "BUTTON",
+      "text": "Go to cover slide",
+      "cls": "site-logo",
+      "rect": {
+        "x": 630,
+        "y": 32,
+        "width": 180,
+        "height": 52,
+        "top": 32,
+        "right": 810,
+        "bottom": 84,
+        "left": 630
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "PRESENTER NOTES\nPRESENTER NOTES",
+      "cls": "notes-button",
+      "rect": {
+        "x": 20,
+        "y": 823,
+        "width": 170,
+        "height": 40,
+        "top": 823,
+        "right": 190,
+        "bottom": 863,
+        "left": 20
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "PREV",
+      "cls": "btn nav__arrow nav__arrow--prev",
+      "rect": {
+        "x": 561,
+        "y": 801,
+        "width": 102,
+        "height": 54,
+        "top": 801,
+        "right": 663,
+        "bottom": 855,
+        "left": 561
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Display slides menu",
+      "cls": "btn btn-round nav__menu",
+      "rect": {
+        "x": 679,
+        "y": 788,
+        "width": 80,
+        "height": 80,
+        "top": 788,
+        "right": 759,
+        "bottom": 868,
+        "left": 679
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NEXT",
+      "cls": "btn nav__arrow nav__arrow--next",
+      "rect": {
+        "x": 775,
+        "y": 801,
+        "width": 104,
+        "height": 54,
+        "top": 801,
+        "right": 879,
+        "bottom": 855,
+        "left": 775
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Unmute sound",
+      "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+      "rect": {
+        "x": 1276,
+        "y": 824,
+        "width": 48,
+        "height": 48,
+        "top": 824,
+        "right": 1324,
+        "bottom": 872,
+        "left": 1276
+      },
+      "pe": "auto"
+    }
+  ],
+  "active": [
+    {
+      "i": 1,
+      "cls": "slide slide--problem is-active",
+      "aria": null,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "top": 0,
+        "right": 1440,
+        "bottom": 900,
+        "left": 0
+      },
+      "text": "THE PROBLEM"
+    }
+  ]
+}

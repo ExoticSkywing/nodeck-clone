@@ -1,0 +1,63 @@
+{
+  "text": "Page not found (404) — PowerPoint War Adventure\n\nPOWERPOINT WAR ADVENTURE\n\nSTART GAME\n\nPRESS ENTER OR E\n\nHome",
+  "bg": "rgb(222, 249, 21)",
+  "canvases": [],
+  "visible": [
+    {
+      "text": "START GAME",
+      "cls": "btn btn--big game-title__start is-attract",
+      "rect": {
+        "x": 576.3255615234375,
+        "y": 583.5599365234375,
+        "width": 288,
+        "height": 94,
+        "top": 583.5599365234375,
+        "right": 864.3255615234375,
+        "bottom": 677.5599365234375,
+        "left": 576.3255615234375
+      }
+    },
+    {
+      "text": "Home",
+      "cls": "statusbar__home",
+      "rect": {
+        "x": 32,
+        "y": 847,
+        "width": 71.59375,
+        "height": 21,
+        "top": 847,
+        "right": 103.59375,
+        "bottom": 868,
+        "left": 32
+      }
+    },
+    {
+      "text": "Pause background motion",
+      "cls": "btn btn-round pattern-pause",
+      "rect": {
+        "x": 1296,
+        "y": 820,
+        "width": 48,
+        "height": 48,
+        "top": 820,
+        "right": 1344,
+        "bottom": 868,
+        "left": 1296
+      }
+    },
+    {
+      "text": "Unmute sound",
+      "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+      "rect": {
+        "x": 1360,
+        "y": 824,
+        "width": 48,
+        "height": 48,
+        "top": 824,
+        "right": 1408,
+        "bottom": 872,
+        "left": 1360
+      }
+    }
+  ]
+}

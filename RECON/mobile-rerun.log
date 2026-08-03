@@ -1,0 +1,382 @@
+[
+  {
+    "label": "original-home-0",
+    "data": {
+      "bg": "rgb(255, 135, 171)",
+      "scroll": {
+        "h": 844,
+        "w": 390
+      },
+      "text": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10",
+      "active": [
+        "slide slide--cover is-active"
+      ],
+      "buttons": [
+        {
+          "c": "notes-button",
+          "a": null,
+          "r": {
+            "x": 5.5,
+            "y": 692.5,
+            "width": 150,
+            "height": 35,
+            "top": 692.5,
+            "right": 155.5,
+            "bottom": 727.5,
+            "left": 5.5
+          }
+        },
+        {
+          "c": "btn nav__arrow nav__arrow--prev",
+          "a": null,
+          "r": {
+            "x": 41.5,
+            "y": 745,
+            "width": 98,
+            "height": 54,
+            "top": 745,
+            "right": 139.5,
+            "bottom": 799,
+            "left": 41.5
+          }
+        },
+        {
+          "c": "btn btn-round nav__menu",
+          "a": "Display slides menu",
+          "r": {
+            "x": 155.5,
+            "y": 732,
+            "width": 80,
+            "height": 80,
+            "top": 732,
+            "right": 235.5,
+            "bottom": 812,
+            "left": 155.5
+          }
+        },
+        {
+          "c": "btn nav__arrow nav__arrow--next",
+          "a": null,
+          "r": {
+            "x": 251.5,
+            "y": 745,
+            "width": 97,
+            "height": 54,
+            "top": 745,
+            "right": 348.5,
+            "bottom": 799,
+            "left": 251.5
+          }
+        },
+        {
+          "c": "btn btn-round sound-toggle sound-toggle--small is-muted",
+          "a": "Unmute sound",
+          "r": {
+            "x": 263,
+            "y": 696,
+            "width": 40,
+            "height": 40,
+            "top": 696,
+            "right": 303,
+            "bottom": 736,
+            "left": 263
+          }
+        }
+      ]
+    },
+    "errs": [],
+    "http": []
+  },
+  {
+    "label": "clone-home-0",
+    "data": {
+      "bg": "rgb(255, 135, 171)",
+      "scroll": {
+        "h": 844,
+        "w": 390
+      },
+      "text": "NODECK — CONSULTING FOR STARTUPS\n\nWE ARE\n\nA CONSULTING COMPANY FOR STARTUPS THAT SELLS THINKING, NOT SLIDES.\n\nDEEP BREATH... YOU'RE ABOUT TO SHOW A PINK WEBSITE TO A SERIOUS PERSON. IT'S FINE. TRUST THE PROCESS.\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 1/10",
+      "active": [
+        "slide slide--cover is-active"
+      ],
+      "buttons": [
+        {
+          "c": "notes-button",
+          "a": null,
+          "r": {
+            "x": 5.5,
+            "y": 692.5,
+            "width": 150,
+            "height": 35,
+            "top": 692.5,
+            "right": 155.5,
+            "bottom": 727.5,
+            "left": 5.5
+          }
+        },
+        {
+          "c": "btn nav__arrow nav__arrow--prev",
+          "a": null,
+          "r": {
+            "x": 41.5,
+            "y": 745,
+            "width": 98,
+            "height": 54,
+            "top": 745,
+            "right": 139.5,
+            "bottom": 799,
+            "left": 41.5
+          }
+        },
+        {
+          "c": "btn btn-round nav__menu",
+          "a": "Display slides menu",
+          "r": {
+            "x": 155.5,
+            "y": 732,
+            "width": 80,
+            "height": 80,
+            "top": 732,
+            "right": 235.5,
+            "bottom": 812,
+            "left": 155.5
+          }
+        },
+        {
+          "c": "btn nav__arrow nav__arrow--next",
+          "a": null,
+          "r": {
+            "x": 251.5,
+            "y": 745,
+            "width": 97,
+            "height": 54,
+            "top": 745,
+            "right": 348.5,
+            "bottom": 799,
+            "left": 251.5
+          }
+        },
+        {
+          "c": "btn btn-round sound-toggle sound-toggle--small is-muted",
+          "a": "Unmute sound",
+          "r": {
+            "x": 263,
+            "y": 696,
+            "width": 40,
+            "height": 40,
+            "top": 696,
+            "right": 303,
+            "bottom": 736,
+            "left": 263
+          }
+        }
+      ]
+    },
+    "errs": [],
+    "http": []
+  },
+  {
+    "label": "original-home-1",
+    "data": {
+      "bg": "rgb(255, 135, 171)",
+      "scroll": {
+        "h": 844,
+        "w": 390
+      },
+      "text": "THE PROBLEM\n\nEVERY YEAR, BILLIONS ARE SPENT ON DECKS NOBODY READS, FRAMEWORKS NOBODY USES, AND CONSULTANTS NOBODY REMEMBERS.\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\nSLIDE 2: THE PROBLEM",
+      "active": [
+        "slide slide--problem is-active"
+      ],
+      "buttons": [
+        {
+          "c": "site-logo",
+          "a": "Go to cover slide",
+          "r": {
+            "x": 105,
+            "y": 32,
+            "width": 180,
+            "height": 52,
+            "top": 32,
+            "right": 285,
+            "bottom": 84,
+            "left": 105
+          }
+        },
+        {
+          "c": "notes-button",
+          "a": null,
+          "r": {
+            "x": 5.5,
+            "y": 692.5,
+            "width": 150,
+            "height": 35,
+            "top": 692.5,
+            "right": 155.5,
+            "bottom": 727.5,
+            "left": 5.5
+          }
+        },
+        {
+          "c": "btn nav__arrow nav__arrow--prev",
+          "a": null,
+          "r": {
+            "x": 41.5,
+            "y": 745,
+            "width": 98,
+            "height": 54,
+            "top": 745,
+            "right": 139.5,
+            "bottom": 799,
+            "left": 41.5
+          }
+        },
+        {
+          "c": "btn btn-round nav__menu",
+          "a": "Display slides menu",
+          "r": {
+            "x": 155.5,
+            "y": 732,
+            "width": 80,
+            "height": 80,
+            "top": 732,
+            "right": 235.5,
+            "bottom": 812,
+            "left": 155.5
+          }
+        },
+        {
+          "c": "btn nav__arrow nav__arrow--next",
+          "a": null,
+          "r": {
+            "x": 251.5,
+            "y": 745,
+            "width": 97,
+            "height": 54,
+            "top": 745,
+            "right": 348.5,
+            "bottom": 799,
+            "left": 251.5
+          }
+        },
+        {
+          "c": "btn btn-round sound-toggle sound-toggle--small is-muted",
+          "a": "Unmute sound",
+          "r": {
+            "x": 259,
+            "y": 696,
+            "width": 40,
+            "height": 40,
+            "top": 696,
+            "right": 299,
+            "bottom": 736,
+            "left": 259
+          }
+        }
+      ]
+    },
+    "errs": [],
+    "http": []
+  },
+  {
+    "label": "clone-home-1",
+    "data": {
+      "bg": "rgb(255, 135, 171)",
+      "scroll": {
+        "h": 844,
+        "w": 390
+      },
+      "text": "THE PROBLEM\n\nEVERY YEAR, BILLIONS ARE SPENT ON DECKS NOBODY READS, FRAMEWORKS NOBODY USES, AND CONSULTANTS NOBODY REMEMBERS.\nLET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\nSLIDE 2: THE PROBLEM",
+      "active": [
+        "slide slide--problem is-active"
+      ],
+      "buttons": [
+        {
+          "c": "site-logo",
+          "a": "Go to cover slide",
+          "r": {
+            "x": 105,
+            "y": 32,
+            "width": 180,
+            "height": 52,
+            "top": 32,
+            "right": 285,
+            "bottom": 84,
+            "left": 105
+          }
+        },
+        {
+          "c": "notes-button",
+          "a": null,
+          "r": {
+            "x": 5.5,
+            "y": 692.5,
+            "width": 150,
+            "height": 35,
+            "top": 692.5,
+            "right": 155.5,
+            "bottom": 727.5,
+            "left": 5.5
+          }
+        },
+        {
+          "c": "btn nav__arrow nav__arrow--prev",
+          "a": null,
+          "r": {
+            "x": 41.5,
+            "y": 745,
+            "width": 98,
+            "height": 54,
+            "top": 745,
+            "right": 139.5,
+            "bottom": 799,
+            "left": 41.5
+          }
+        },
+        {
+          "c": "btn btn-round nav__menu",
+          "a": "Display slides menu",
+          "r": {
+            "x": 155.5,
+            "y": 732,
+            "width": 80,
+            "height": 80,
+            "top": 732,
+            "right": 235.5,
+            "bottom": 812,
+            "left": 155.5
+          }
+        },
+        {
+          "c": "btn nav__arrow nav__arrow--next",
+          "a": null,
+          "r": {
+            "x": 251.5,
+            "y": 745,
+            "width": 97,
+            "height": 54,
+            "top": 745,
+            "right": 348.5,
+            "bottom": 799,
+            "left": 251.5
+          }
+        },
+        {
+          "c": "btn btn-round sound-toggle sound-toggle--small is-muted",
+          "a": "Unmute sound",
+          "r": {
+            "x": 259,
+            "y": 696,
+            "width": 40,
+            "height": 40,
+            "top": 696,
+            "right": 299,
+            "bottom": 736,
+            "left": 259
+          }
+        }
+      ]
+    },
+    "errs": [],
+    "http": []
+  }
+]

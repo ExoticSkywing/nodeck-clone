@@ -1,0 +1,123 @@
+{
+  "url": "https://www.nodeck.online/",
+  "title": "Nodeck | A Presentation Website That Hates Presentations",
+  "bodyText": "LET THEM FEEL THIS ONE...\nPRESENTER NOTES\nPRESENTER NOTES\nPREV\nNEXT\nSLIDE 2/10\n\nSLIDE 2\n\nTHE\nPROBLEM\n\nSLIDE 2: THE PROBLEM",
+  "bodyBg": "rgb(255, 135, 171)",
+  "classes": "",
+  "visible": [
+    {
+      "tag": "BUTTON",
+      "text": "Go to cover slide",
+      "cls": "site-logo",
+      "rect": {
+        "x": 105,
+        "y": 32,
+        "width": 180,
+        "height": 52,
+        "top": 32,
+        "right": 285,
+        "bottom": 84,
+        "left": 105
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "PRESENTER NOTES\nPRESENTER NOTES",
+      "cls": "notes-button",
+      "rect": {
+        "x": 5.5,
+        "y": 692.5,
+        "width": 150,
+        "height": 35,
+        "top": 692.5,
+        "right": 155.5,
+        "bottom": 727.5,
+        "left": 5.5
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "PREV",
+      "cls": "btn nav__arrow nav__arrow--prev",
+      "rect": {
+        "x": 41.5,
+        "y": 745,
+        "width": 98,
+        "height": 54,
+        "top": 745,
+        "right": 139.5,
+        "bottom": 799,
+        "left": 41.5
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Display slides menu",
+      "cls": "btn btn-round nav__menu",
+      "rect": {
+        "x": 155.5,
+        "y": 732,
+        "width": 80,
+        "height": 80,
+        "top": 732,
+        "right": 235.5,
+        "bottom": 812,
+        "left": 155.5
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NEXT",
+      "cls": "btn nav__arrow nav__arrow--next",
+      "rect": {
+        "x": 251.5,
+        "y": 745,
+        "width": 97,
+        "height": 54,
+        "top": 745,
+        "right": 348.5,
+        "bottom": 799,
+        "left": 251.5
+      },
+      "pe": "auto"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Unmute sound",
+      "cls": "btn btn-round sound-toggle sound-toggle--small is-muted",
+      "rect": {
+        "x": 259,
+        "y": 696,
+        "width": 40,
+        "height": 40,
+        "top": 696,
+        "right": 299,
+        "bottom": 736,
+        "left": 259
+      },
+      "pe": "auto"
+    }
+  ],
+  "active": [
+    {
+      "i": 1,
+      "cls": "slide slide--problem is-active",
+      "aria": null,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844,
+        "top": 0,
+        "right": 390,
+        "bottom": 844,
+        "left": 0
+      },
+      "text": ""
+    }
+  ]
+}

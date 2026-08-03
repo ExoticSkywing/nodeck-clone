@@ -1,0 +1,108 @@
+{
+  "allStateEqual": true,
+  "allShotEqual": true,
+  "results": [
+    {
+      "label": "slide-01",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 1,
+      "active": [
+        "slide slide--cover is-active"
+      ]
+    },
+    {
+      "label": "slide-02",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 2,
+      "active": [
+        "slide slide--problem is-active"
+      ]
+    },
+    {
+      "label": "slide-03",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 3,
+      "active": [
+        "slide slide--believe is-active"
+      ]
+    },
+    {
+      "label": "slide-04",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 4,
+      "active": [
+        "slide slide--whatwedo is-active"
+      ]
+    },
+    {
+      "label": "slide-05",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 5,
+      "active": [
+        "slide slide--dontdo is-active"
+      ]
+    },
+    {
+      "label": "slide-06",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 6,
+      "active": [
+        "slide slide--workwith is-active"
+      ]
+    },
+    {
+      "label": "slide-07",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 7,
+      "active": [
+        "slide slide--howwethink is-active"
+      ]
+    },
+    {
+      "label": "slide-08",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 9,
+      "active": [
+        "slide slide--proof is-active"
+      ]
+    },
+    {
+      "label": "slide-09",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 10,
+      "active": [
+        "slide slide--cta is-active"
+      ]
+    },
+    {
+      "label": "slide-10",
+      "stateEqual": true,
+      "shotEqual": true,
+      "slide": 11,
+      "active": [
+        "slide slide--footer is-active"
+      ]
+    }
+  ],
+  "originalIssues": {
+    "errors": [],
+    "console": [],
+    "http": [],
+    "failed": []
+  },
+  "cloneIssues": {
+    "errors": [],
+    "console": [],
+    "http": [],
+    "failed": []
+  }
+}
