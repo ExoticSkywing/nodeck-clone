@@ -7,10 +7,10 @@
   "use strict";
 
   const MOBILE_QUERY = "(hover: none) and (pointer: coarse)";
-  const COMMIT_DISTANCE_PX = 132;
+  const COMMIT_DISTANCE_PX = 264;
   const AXIS_LOCK_PX = 8;
   const AXIS_DOMINANCE = 1.2;
-  const COMMIT_HOLD_MS = 420;
+  const COMMIT_HOLD_MS = 1000;
   const RESET_AFTER_NAV_MS = 1700;
   const RADIUS = 36;
   const CIRCUMFERENCE = 2 * Math.PI * RADIUS;
@@ -21,6 +21,7 @@
   const label = widget?.querySelector(".scroll-nav__label");
   const prevButton = document.getElementById("nav-prev-slide-btn");
   const nextButton = document.getElementById("nav-next-slide-btn");
+  const soundButton = document.getElementById("sound-toggle-btn");
 
   if (!widget || !ring || !check || !label || !prevButton || !nextButton) return;
 
@@ -36,6 +37,10 @@
   let committing = false;
   let commitTimer = 0;
   let resetTimer = 0;
+  let firstCompletedInteractionHandled = false;
+  let soundAutoEnabled = false;
+  let hapticSwitch = null;
+  let hapticPulseCount = 0;
 
   const isModalOpen = () => Boolean(
     document.querySelector("dialog[data-modal][open], dialog[open], .projects.is-open") ||
@@ -54,6 +59,50 @@
   const canNavigate = (dir) => {
     const button = dir > 0 ? nextButton : prevButton;
     return !button.disabled && !button.closest("[inert]");
+  };
+
+  const ensureHapticSwitch = () => {
+    if (hapticSwitch?.isConnected) return hapticSwitch;
+    const label = document.createElement("label");
+    label.className = "mobile-haptic-switch";
+    label.setAttribute("aria-hidden", "true");
+    hapticSwitch = document.createElement("input");
+    hapticSwitch.type = "checkbox";
+    hapticSwitch.setAttribute("switch", "");
+    hapticSwitch.tabIndex = -1;
+    label.appendChild(hapticSwitch);
+    document.body.appendChild(label);
+    return hapticSwitch;
+  };
+
+  const playSuccessHaptic = () => {
+    hapticPulseCount += 1;
+    document.documentElement.dataset.mobileHapticPulseCount = String(hapticPulseCount);
+    let standardTriggered = false;
+    try {
+      standardTriggered = typeof navigator.vibrate === "function" && navigator.vibrate([26, 42, 36]);
+    } catch {}
+    if (standardTriggered) return;
+    try {
+      const input = ensureHapticSwitch();
+      input.checked = !input.checked;
+      input.dispatchEvent(new Event("change", { bubbles: true }));
+    } catch {}
+  };
+
+  const enableSoundAfterFirstCompletedInteraction = (event) => {
+    if (firstCompletedInteractionHandled || !mobileMedia.matches || !event.isTrusted || !soundButton) return;
+    firstCompletedInteractionHandled = true;
+    document.documentElement.dataset.mobileFirstInteractionComplete = "true";
+    if (!soundButton.classList.contains("is-muted")) {
+      soundAutoEnabled = true;
+      document.documentElement.dataset.mobileSoundAutoEnabled = "already-on";
+      return;
+    }
+    // Reuse the source sound-toggle handler from the trusted touchend stack.
+    soundButton.click();
+    soundAutoEnabled = !soundButton.classList.contains("is-muted");
+    document.documentElement.dataset.mobileSoundAutoEnabled = String(soundAutoEnabled);
   };
 
   const paint = (value) => {
@@ -119,7 +168,7 @@
     label.textContent = "LET'S GO!";
     widget.classList.add("is-touch-success");
     paintCheck(1);
-    if (navigator.vibrate) navigator.vibrate(18);
+    playSuccessHaptic();
 
     commitTimer = window.setTimeout(() => {
       const button = direction > 0 ? nextButton : prevButton;
@@ -185,6 +234,7 @@
   };
 
   const end = (event) => {
+    enableSoundAfterFirstCompletedInteraction(event);
     if (touchId === null) return;
     const ended = [...event.changedTouches].some((item) => item.identifier === touchId);
     if (!ended) return;
@@ -196,6 +246,7 @@
   widget.setAttribute("role", "progressbar");
   widget.setAttribute("aria-valuemin", "0");
   widget.setAttribute("aria-valuemax", "100");
+  ensureHapticSwitch();
   reset({ animate: false });
 
   window.addEventListener("touchstart", start, { passive: true, capture: true });

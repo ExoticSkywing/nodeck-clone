@@ -10,6 +10,17 @@
       "label": "initial",
       "active": "slide slide--cover is-active",
       "indicator": "Slide 1/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small is-muted",
+        "autoEnabled": "",
+        "firstInteractionComplete": "",
+        "storedMuted": null
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 0
+      },
       "widget": {
         "display": "flex",
         "visibility": "hidden",
@@ -35,14 +46,25 @@
       "label": "partial-forward",
       "active": "slide slide--cover is-active",
       "indicator": "Slide 1/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small is-muted",
+        "autoEnabled": "",
+        "firstInteractionComplete": "",
+        "storedMuted": null
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 0
+      },
       "widget": {
         "display": "flex",
         "visibility": "visible",
         "opacity": "0.638364",
         "cls": "scroll-nav is-touch-enhanced is-touch-active",
         "label": "NEXT SLIDE",
-        "aria": "49",
-        "ring": "114.811",
+        "aria": "38",
+        "ring": "140.515",
         "check": "53.8531",
         "rect": {
           "x": 125.45973205566406,
@@ -60,6 +82,17 @@
       "label": "partial-cancelled",
       "active": "slide slide--cover is-active",
       "indicator": "Slide 1/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small",
+        "autoEnabled": "true",
+        "firstInteractionComplete": "true",
+        "storedMuted": "false"
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 0
+      },
       "widget": {
         "display": "flex",
         "visibility": "hidden",
@@ -78,6 +111,42 @@
           "right": 262.20001220703125,
           "bottom": 652,
           "left": 127.80000305175781
+        }
+      }
+    },
+    {
+      "label": "former-distance-no-longer-commits",
+      "active": "slide slide--cover is-active",
+      "indicator": "Slide 1/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small",
+        "autoEnabled": "true",
+        "firstInteractionComplete": "true",
+        "storedMuted": "false"
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 0
+      },
+      "widget": {
+        "display": "flex",
+        "visibility": "visible",
+        "opacity": "0.762752",
+        "cls": "scroll-nav is-touch-enhanced is-touch-active",
+        "label": "NEXT SLIDE",
+        "aria": "63",
+        "ring": "84.823",
+        "check": "53.8531",
+        "rect": {
+          "x": 125.27079772949219,
+          "y": 568.3050537109375,
+          "width": 139.45838928222656,
+          "height": 76.4686279296875,
+          "top": 568.3050537109375,
+          "right": 264.72918701171875,
+          "bottom": 644.773681640625,
+          "left": 125.27079772949219
         }
       }
     },
@@ -85,6 +154,17 @@
       "label": "horizontal-ignored",
       "active": "slide slide--cover is-active",
       "indicator": "Slide 1/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small",
+        "autoEnabled": "true",
+        "firstInteractionComplete": "true",
+        "storedMuted": "false"
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 0
+      },
       "widget": {
         "display": "flex",
         "visibility": "hidden",
@@ -107,27 +187,74 @@
       }
     },
     {
-      "label": "forward-success",
+      "label": "forward-success-start",
       "active": "slide slide--cover is-active",
       "indicator": "Slide 1/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small",
+        "autoEnabled": "true",
+        "firstInteractionComplete": "true",
+        "storedMuted": "false"
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 1
+      },
       "widget": {
         "display": "flex",
         "visibility": "visible",
-        "opacity": "0.763384",
+        "opacity": "0.762752",
         "cls": "scroll-nav is-touch-enhanced is-touch-active is-touch-success",
         "label": "LET'S GO!",
         "aria": "100",
         "ring": "0",
         "check": "0",
         "rect": {
-          "x": 122.73983764648438,
-          "y": 592.350341796875,
-          "width": 144.52032470703125,
-          "height": 52.4208984375,
-          "top": 592.350341796875,
-          "right": 267.2601623535156,
-          "bottom": 644.771240234375,
-          "left": 122.73983764648438
+          "x": 122.74160766601562,
+          "y": 592.3541259765625,
+          "width": 144.51678466796875,
+          "height": 52.41961669921875,
+          "top": 592.3541259765625,
+          "right": 267.2583923339844,
+          "bottom": 644.7737426757812,
+          "left": 122.74160766601562
+        }
+      }
+    },
+    {
+      "label": "forward-success-held",
+      "active": "slide slide--cover is-active",
+      "indicator": "Slide 1/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small",
+        "autoEnabled": "true",
+        "firstInteractionComplete": "true",
+        "storedMuted": "false"
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 1
+      },
+      "widget": {
+        "display": "flex",
+        "visibility": "visible",
+        "opacity": "1",
+        "cls": "scroll-nav is-touch-enhanced is-touch-active is-touch-success",
+        "label": "LET'S GO!",
+        "aria": "100",
+        "ring": "0",
+        "check": "0",
+        "rect": {
+          "x": 122.20000457763672,
+          "y": 591.1875,
+          "width": 145.5999755859375,
+          "height": 52.8125,
+          "top": 591.1875,
+          "right": 267.7999801635742,
+          "bottom": 644,
+          "left": 122.20000457763672
         }
       }
     },
@@ -135,6 +262,17 @@
       "label": "forward-complete",
       "active": "slide slide--problem is-active",
       "indicator": "Slide 2/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small",
+        "autoEnabled": "true",
+        "firstInteractionComplete": "true",
+        "storedMuted": "false"
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 1
+      },
       "widget": {
         "display": "flex",
         "visibility": "hidden",
@@ -160,6 +298,17 @@
       "label": "reverse-success",
       "active": "slide slide--problem is-active",
       "indicator": "Slide 2/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small",
+        "autoEnabled": "true",
+        "firstInteractionComplete": "true",
+        "storedMuted": "false"
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 2
+      },
       "widget": {
         "display": "flex",
         "visibility": "visible",
@@ -185,6 +334,17 @@
       "label": "reverse-complete",
       "active": "slide slide--cover is-active",
       "indicator": "Slide 1/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small",
+        "autoEnabled": "true",
+        "firstInteractionComplete": "true",
+        "storedMuted": "false"
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 2
+      },
       "widget": {
         "display": "flex",
         "visibility": "hidden",
@@ -210,6 +370,17 @@
       "label": "overlay-blocks-swipe",
       "active": "slide slide--cover is-active",
       "indicator": "Slide 1/10",
+      "sound": {
+        "button": "btn btn-round sound-toggle sound-toggle--small",
+        "autoEnabled": "true",
+        "firstInteractionComplete": "true",
+        "storedMuted": "false"
+      },
+      "haptic": {
+        "fallbackExists": true,
+        "checked": false,
+        "pulseCount": 2
+      },
       "widget": {
         "display": "flex",
         "visibility": "hidden",
@@ -235,11 +406,16 @@
   "assertions": {
     "partialHasProgress": true,
     "partialDoesNotNavigate": true,
+    "firstCompletedInteractionEnablesSound": true,
+    "formerDistanceDoesNotCommit": true,
     "horizontalIgnored": true,
     "forwardShowsSuccess": true,
+    "successStillVisibleAfterOldTiming": true,
     "forwardNavigates": true,
     "reverseShowsSuccess": true,
     "reverseNavigatesBack": true,
+    "hapticFallbackPresent": true,
+    "hapticCommandIssued": true,
     "modalBlocks": true,
     "clean": true
   }

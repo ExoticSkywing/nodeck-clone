@@ -1,4 +1,23 @@
 
+/* Haptic fallback for current iOS Safari/WebKit: toggling a native switch
+ * from a trusted touchend can produce system haptics where Vibration API
+ * is unavailable. The control is inert and never enters the focus order. */
+.mobile-haptic-switch {
+  position: fixed;
+  width: 1px;
+  height: 1px;
+  left: -9999px;
+  bottom: -9999px;
+  overflow: hidden;
+  opacity: .001;
+  pointer-events: none;
+}
+
+.mobile-haptic-switch input {
+  width: 1px;
+  height: 1px;
+}
+
 /* Mobile swipe-progress parity with the desktop wheel interaction. */
 @media (hover: none) and (pointer: coarse) {
   .scroll-nav.is-touch-enhanced {
