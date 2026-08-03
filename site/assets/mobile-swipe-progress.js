@@ -108,15 +108,9 @@
     if (firstCompletedInteractionHandled || soundEnableRequested || !shouldEnhanceTouch() || !event.isTrusted || !soundButton) return;
     soundEnableRequested = true;
     document.documentElement.dataset.mobileFirstInteractionComplete = "true";
-    if (!soundButton.classList.contains("is-muted")) {
-      firstCompletedInteractionHandled = true;
-      soundAutoEnabled = true;
-      document.documentElement.dataset.mobileSoundAutoEnabled = "already-on";
-      return;
-    }
-    // The source module owns sound state. Dispatch an explicit request that it
-    // handles synchronously inside this real touchend stack; never synthesize
-    // button.click(), because iOS Safari does not transfer user activation.
+    // Always route through the source audio owner—even when the button already
+    // projects "unmuted" from localStorage. On iOS Safari the projection may
+    // survive reload while the new page's AudioContext is still suspended.
     window.dispatchEvent(new CustomEvent("nodeck:enable-sound"));
   };
 
