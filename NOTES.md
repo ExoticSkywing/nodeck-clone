@@ -82,4 +82,5 @@ python3 -m http.server 44118 --bind 0.0.0.0
 - Automated evidence: `RECON/mobile-swipe-progress/report.json`; desktop/source regressions remain 0-pixel in deterministic captures.
 - Follow-up calibration: commit distance is two times the original target, capped at `264px` and derived down to `32%` of the current visible viewport height for short browser chrome; `LET'S GO!` hold `420ms ...[truncated]
 - Physical iPhone Safari/WKWebView touch feel, audible output and haptic outcome still require human approval; automation does not approve trusted-device interaction.
-- Safari audio recovery: the touch adapter now s...[truncated]
+- Safari audio recovery: the touch adapter now synchronously asks the source-owned sound manager to unlock on the first trusted completed touch; the owner explicitly resumes Howler's context, unmutes, starts background, refreshes UI state, and publishes running/failed diagnostics instead of relying on a synthetic `.click()`.
+- iOS 16.3 codec recovery: all 22 external one-shot `.ogg` tracks (mostly Vorbis, four Opus) are transcoded to AAC-in-M4A under `assets/safari-audio/`, and the source sound bundle now references those files; this addresses the confirmed codec gap in Safari 16.3 while preserving the original MP3 background tracks.
