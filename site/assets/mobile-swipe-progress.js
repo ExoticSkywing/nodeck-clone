@@ -24,6 +24,9 @@
   const RESET_AFTER_NAV_MS = 1700;
   const RADIUS = 36;
   const CIRCUMFERENCE = 2 * Math.PI * RADIUS;
+  const LABEL_NEXT = "下一张";
+  const LABEL_PREV = "上一张";
+  const LABEL_READY = "出发！";
 
   const widget = document.getElementById("scroll-nav-overlay");
   const ring = widget?.querySelector(".scroll-nav__ring-progress");
@@ -168,7 +171,7 @@
     direction = 0;
     committed = false;
     committing = false;
-    label.textContent = "NEXT SLIDE";
+    label.textContent = LABEL_NEXT;
     widget.classList.remove("is-touch-success");
     widget.style.setProperty("--touch-reset-duration", animate ? "360ms" : "0ms");
     paint(0);
@@ -189,7 +192,7 @@
     committing = true;
     committed = true;
     paint(1);
-    label.textContent = "LET'S GO!";
+    label.textContent = LABEL_READY;
     widget.classList.add("is-touch-success");
     paintCheck(1);
     playSuccessHaptic();
@@ -250,8 +253,8 @@
       paintCheck(0);
     }
     direction = nextDirection;
-    label.textContent = direction > 0 ? "NEXT SLIDE" : "PREV SLIDE";
-    widget.setAttribute("aria-label", direction > 0 ? "Swipe up to next slide" : "Swipe down to previous slide");
+    label.textContent = direction > 0 ? LABEL_NEXT : LABEL_PREV;
+    widget.setAttribute("aria-label", direction > 0 ? "向上滑动进入下一张" : "向下滑动返回上一张");
     show();
     paint(Math.abs(dy) / commitDistance());
     if (progress >= 1) commit();
